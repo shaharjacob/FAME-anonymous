@@ -1,0 +1,9 @@
+mapping:
+  - input:
+      base: [answer, riddle, logic]
+      target: [key, lock, mechanism]
+    output:
+      mapping:
+      - answer --> key
+      - riddle --> lock
+      - logic --> mechanism

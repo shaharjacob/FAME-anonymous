@@ -1,0 +1,67 @@
+.single-mapping-demo-container {
+    grid-area: main;
+    display: grid;
+    grid-template-rows: 0.3fr 0.3fr 0.1fr 0.3fr;
+}
+
+.single-mapping-demo-button {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.single-mapping-demo-selects-grid {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+    grid-template-rows: 0.5fr 0.5fr;
+    width: 400px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Segoe UI';
+    color: #464646;
+}
+
+.mid-title {
+    padding-left: 18px;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'Segoe UI';
+    color: #464646;
+}
+
+.select {
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.suggestions {
+    text-align: left; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 40px;
+}
+
+.logo {
+    margin-top: 30px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.suggestion-button {
+    border: 0;
+    background-color: transparent;
+}
+
+.suggestion-button:hover {
+    background-color: rgb(237, 245, 255);
+    cursor: pointer;
+    border-radius: 5px;
+}

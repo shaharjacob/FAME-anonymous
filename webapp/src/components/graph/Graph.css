@@ -1,0 +1,139 @@
+.graph-container {
+    display: grid;
+    grid-template-rows: 0.01fr 0.99fr;
+    grid-template-columns: 0.3fr 0.7fr;
+    grid-template-areas: 
+      "score top"
+      "score graph";
+    margin-top: 50px;
+}
+
+.bipartie-container {
+    display: grid;
+    grid-template-rows: 0.05fr 0.95fr;
+    grid-template-areas: 
+      "top"
+      "graph";
+    margin-top: 10px;
+}
+
+.overlay-loading {
+    background-color: #ffffff;
+    margin-top: 200px;
+}
+
+/****************************/
+/* Top -> entities, sliders */
+/****************************/
+.top {
+    grid-area: top;
+}
+
+.entities-title {
+    border-radius: 5px;
+    padding: 3px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    height: 30px;
+    width: fit-content;
+}
+
+.td-base {
+    text-align: right; 
+    width: 35%; 
+    padding-right: 20px; 
+    padding-left: 20px;
+}
+
+.td-target {
+    text-align: left; 
+    width: 35%; 
+    padding-right: 20px; 
+    padding-left: 20px;
+}
+
+.base {
+    background-color: orange;
+    border: 1px solid rgb(73, 49, 4);
+}
+
+.target {
+    background-color: cyan;
+    border: 1px solid rgb(1, 107, 107);
+}
+
+.slider {
+    width: 200px;
+    text-align: center;
+}
+
+.slider-title {
+    font-size: 10px;
+    font-weight: 700;
+    color: #363636;
+}
+
+.td-slider {
+    width: 15%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+/**************/
+/* Descriptor */
+/**************/
+.main-descriptor {
+    grid-area: score;
+    margin-left: 20px;
+    background-color: #ececec;
+    padding: 5px;
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    box-shadow: 3px 3px 8px #b3b3b3;
+}
+
+.descriptor-title {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.descriptor-table {
+    font-weight: 600;
+    font-size: 12px;
+    width: 100%;
+}
+
+.descriptor-td-title {
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #e2e2e2;
+}
+
+.descriptor-td {
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #e2e2e2;
+}
+
+.graph-button {
+    border: 0;
+    background-color: transparent;
+}
+
+.graph-button:hover {
+    border-radius: 5px;
+    background-color: #d1d1d1;
+    cursor: pointer;
+}
+
+.score-title {
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 5px;
+    width: 300px;
+}

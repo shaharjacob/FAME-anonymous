@@ -1,0 +1,10 @@
+.DS_Store
+*.gv
+*.pyc
+.vscode
+.idea/
+*.env
+
+backend/tsv/merged
+backend/cache
+cache

@@ -1,0 +1,320 @@
+mapping:
+  - input: #1
+      base: [answer, riddle]
+      target: [solution, problem]
+    output:
+      mapping:
+      - answer --> solution
+      - riddle --> problem
+
+  - input: #2
+      base: [ash, fireplace]
+      target: [soot, chimney]
+    output:
+      mapping:
+      - ash --> soot
+      - fireplace --> chimney
+
+  - input: #3
+      base: [aspirin, pain]
+      target: [antacid, heartburn]
+    output:
+      mapping:
+      - aspirin --> antacid
+      - pain --> heartburn
+
+  - input: #4
+      base: [baker, cake] 
+      target: [chef, meal]
+    output:
+      mapping:
+      - baker --> chef
+      - cake --> meal
+
+  - input: #5
+      base: [basket, picnic]
+      target: [lunchbox, lunch] 
+    output:
+      mapping:
+      - basket --> lunchbox
+      - picnic --> lunch
+      
+  - input: #6
+      base: [basketball, hoop]
+      target: [soccerball, goal]
+    output:
+      mapping:
+      - basketball --> soccerball
+      - hoop --> goal
+
+  - input: #7
+      base: [blindness, sight] 
+      target: [deafness, hearing]
+    output:
+      mapping:
+      - blindness --> deafness
+      - sight --> hearing
+
+  - input: #8
+      base: [blizzard, snowflake]
+      target: [monsoon, raindrop]
+    output:
+      mapping:
+      - blizzard --> monsoon
+      - snowflake --> raindrop
+
+  - input: #9
+      base: [bracelet, wrist] 
+      target: [ring, finger]
+    output:
+      mapping:
+      - bracelet --> ring
+      - wrist --> finger
+
+  - input: #10
+      base: [burger, bun]
+      target: [sub, roll]
+    output:
+      mapping:
+      - burger --> sub
+      - bun --> roll
+
+  - input: #11
+      base: [cleanser, face]
+      target: [soap, body]
+    output:
+      mapping:
+        - cleanser --> soap
+        - face --> body
+
+  - input: #12
+      base: [eraser, pencil]
+      target: [whiteout, pen]
+    output:
+      mapping:
+      - eraser --> whiteout
+      - pencil --> pen
+
+  - input: #13
+      base: [father, son]
+      target: [mother, daughter]
+    output:
+      mapping:
+      - father --> mother
+      - son --> daughter
+
+  - input: #14
+      base: [flock, goose]
+      target: [wolfpack, wolf]
+    output:
+      mapping:
+      - flock --> wolfpack
+      - goose --> wolf
+
+  - input: #15
+      base: [foresight, future] 
+      target: [hindsight, past]
+    output:
+      mapping:
+      - foresight --> hindsight
+      - future --> past
+
+  - input: #16
+      base: [foundation, house]
+      target: [base, structure] 
+    output:
+      mapping:
+      - foundation --> base
+      - house --> structure
+
+  - input: #17
+      base: [furnace, coal]
+      target: [woodstove, wood]
+    output:
+      mapping:
+      - furnace --> woodstove
+      - coal --> wood
+
+  - input: #18
+      base: [hoof, hoofprint]
+      target: [paw, pawprint]
+    output:
+      mapping:
+      - hoof --> paw
+      - hoofprint --> pawprint
+
+  - input: #19
+      base: [immunization, disease]
+      target: [vaccination, infection]
+    output:
+      mapping:
+      - immunization --> vaccination
+      - disease --> infection
+
+  - input: #20
+      base: [jacket, zipper]
+      target: [overcoat, button]
+    output:
+      mapping:
+      - jacket --> overcoat
+      - zipper --> button
+
+  - input: #21
+      base: [ketchup, tomato]
+      target: [guacamole, avocado]
+    output:
+      mapping:
+      - ketchup --> guacamole
+      - tomato --> avocado
+
+  - input: #22
+      base: [kitten, cat]
+      target: [puppy, dog]
+    output:
+      mapping:
+      - kitten --> puppy
+      - cat --> dog
+
+  - input: #23
+      base: [knee, kneepad]
+      target: [elbow, elbowpad]
+    output:
+      mapping:
+      - knee --> elbow
+      - kneepad --> elbowpad
+
+  - input: #24
+      base: [lambchop, lamb]
+      target: [porkchop, pig]
+    output:
+      mapping:
+      - lambchop --> porkchop
+      - lamb --> pig
+
+  - input: #25
+      base: [landscaper, lawn]
+      target: [gardener, garden]
+    output:
+      mapping:
+      - landscaper --> gardener
+      - lawn --> garden
+
+  - input: #26
+      base: [launchpad, helicopter]
+      target: [runway, airplane]
+    output:
+      mapping:
+      - launchpad --> runway
+      - helicopter --> airplane
+
+  - input: #27
+      base: [lawschool, lawyer]
+      target: [medschool, doctor]
+    output:
+      mapping:
+      - lawschool --> medschool
+      - lawyer --> doctor
+
+  - input: #28
+      base: [movie, screen]
+      target: [gameshow, television]
+    output:
+      mapping:
+      - movie --> gameshow
+      - screen --> television
+
+  - input: #29
+      base: [multiplication, product]
+      target: [addition, sum]
+    output:
+      mapping:
+      - multiplication --> addition
+      - product --> sum
+
+  - input: #30
+      base: [nose, scent]
+      target: [tongue, taste]
+    output:
+      mapping:
+      - nose --> tongue
+      - scent --> taste
+
+  - input: #31
+      base: [orchard, apple]
+      target: [grove, orange]
+    output:
+      mapping:
+      - orchard --> grove
+      - apple --> orange
+
+  - input: #32
+      base: [painting, canvas]
+      target: [drawing, paper]
+    output:
+      mapping:
+      - painting --> drawing
+      - canvas --> paper
+
+  - input: #33
+      base: [pen, pig]
+      target: [coop, chicken]
+    output:
+      mapping:
+      - pen --> coop
+      - pig --> chicken
+      
+  - input: #34
+      base: [rectangle, perimeter]
+      target: [circle, circumference]
+    output:
+      mapping:
+      - rectangle --> circle
+      - perimeter --> circumference
+
+  - input: #35
+      base: [revising, manuscript]
+      target: [editing, story]
+    output:
+      mapping:
+      - revising --> editing
+      - manuscript --> story
+
+  - input: #36
+      base: [saxophone, jazz]
+      target: [harmonica, blues]
+    output:
+      mapping:
+      - saxophone --> harmonica
+      - jazz --> blues
+
+  - input: #37
+      base: [sugar, coffee]
+      target: [honey, tea]
+    output:
+      mapping:
+      - sugar --> honey
+      - coffee --> tea
+
+  - input: # 38
+      base: [thermometer, temperature]
+      target: [barometer, pressure]
+    output:
+      mapping:
+      - thermometer --> barometer
+      - temperature --> pressure
+
+  - input: #39
+      base: [train, track]
+      target: [trolley, rail]
+    output:
+      mapping:
+      - train --> trolley
+      - track --> rail
+
+  - input: #40
+      base: [watermelon, rind]
+      target: [orange, peel]
+    output:
+      mapping:
+      - watermelon --> orange
+      - rind --> peel

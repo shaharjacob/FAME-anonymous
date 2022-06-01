@@ -1,0 +1,335 @@
+mapping:
+  - input: #1
+      base: [answer, riddle, logic]
+      target: [key, lock, mechanism]
+    output:
+      mapping:
+      - answer --> key
+      - riddle --> lock
+      - logic --> mechanism
+
+  - input: #2
+      base: [ash, fireplace, wood]
+      target: [lint, pocket, fabric]
+    output:
+      mapping:
+      - ash --> lint
+      - fireplace --> pocket
+      - wood --> fabric
+
+  - input: #3
+      base: [aspirin, pain, injury, pain scale]
+      target: [muffler, noise, engine, decibel]
+    output:
+      mapping:
+      - aspirin --> muffler
+      - pain --> noise
+      - injury --> engine
+      - pain scale --> decibel
+
+  - input: #4
+      base: [baker, cake, recipe, ingredients] 
+      target: [scientist, discovery, research, data]
+    output:
+      mapping:
+      - baker --> scientist
+      - cake --> discovery
+      - recipe --> research
+      - ingredients --> data
+
+  - input: #5
+      base: [basket, picnic, ingredients]
+      target: [holster, gun, bullets] 
+    output:
+      mapping:
+      - basket --> holster
+      - picnic --> gun
+      - ingredients --> bullets
+
+  - input: #6
+      base: [blindness, sight, blind] 
+      target: [poverty, money, beggar]
+    output:
+      mapping:
+      - blindness --> poverty
+      - sight --> money
+      - blind --> beggar
+
+  - input: #7
+      base: [blizzard, snowflake, turbulence, salt]
+      target: [army, soldier, enlistment, wound]
+    output:
+      mapping:
+      - blizzard --> army
+      - snowflake --> soldier
+      - turbulence --> enlistment
+      - salt --> wound
+
+  - input: #8
+      base: [bracelet, wrist, silver, bone] 
+      target: [moat, castle, water, stone]
+    output:
+      mapping:
+      - bracelet --> moat
+      - wrist --> castle
+      - silver --> water
+      - bone --> stone
+
+  - input: #9
+      base: [burger, bun, meat]
+      target: [book, cover, papers]
+    output:
+      mapping:
+      - burger --> book
+      - bun --> cover
+      - meat --> papers
+
+  - input: #10
+      base: [eraser, pencil, paper]
+      target: [amnesia, memory, mind]
+    output:
+      mapping:
+      - eraser --> amnesia
+      - pencil --> memory
+      - paper --> mind
+
+  - input: #11
+      base: [flock, goose, lake]
+      target: [constellation, star, sky]
+    output:
+      mapping:
+      - flock --> constellation
+      - goose --> star
+      - lake --> sky
+
+  - input: #12
+      base: [furnace, coal, heat]
+      target: [stomach, food, energy]
+    output:
+      mapping:
+      - furnace --> stomach
+      - coal --> food
+      - heat --> energy
+
+  - input: #13
+      base: [jacket, zipper, cold]
+      target: [wound, suture, infection]
+    output:
+      mapping:
+      - jacket --> wound
+      - zipper --> suture
+      - cold --> infection
+
+  - input: #14
+      base: [ketchup, tomato, french fries, seeds]
+      target: [fuel, petroleum, car, dinosaurs]
+    output:
+      mapping:
+      - ketchup --> fuel
+      - tomato --> petroleum
+      - french fries --> car
+      - seeds --> dinosaurs
+
+  - input: #15
+      base: [landscaper, lawn, fertilizer]
+      target: [stylist, hair, gel]
+    output:
+      mapping:
+      - landscaper --> stylist
+      - lawn --> hair
+      - fertilizer --> gel
+
+  - input: #16
+      base: [launchpad, helicopter, rotor]
+      target: [divingboard, diver, fins]
+    output:
+      mapping:
+      - launchpad --> divingboard
+      - helicopter --> diver
+      - rotor --> fins
+
+  - input: #17
+      base: [lawschool, lawyer, experience]
+      target: [vineyard, wine, aging]
+    output:
+      mapping:
+      - lawschool --> vineyard
+      - lawyer --> wine
+      - experience --> aging
+
+  - input: #18
+      base: [multiplication, product, mathematician]
+      target: [brewing, beer, brewer]
+    output:
+      mapping:
+      - multiplication --> brewing
+      - product --> beer
+      - mathematician --> brewer
+
+  - input: #19
+      base: [nose, scent, snot]
+      target: [antenna, signal, radiation]
+    output:
+      mapping:
+      - nose --> antenna
+      - scent --> signal
+      - snot --> radiation
+
+  - input: #20
+      base: [painting, canvas, tear, eraser]
+      target: [birthmark, skin, stretch mark, laser]
+    output:
+      mapping:
+      - painting --> birthmark
+      - canvas --> skin
+      - tear --> stretch mark
+      - eraser --> laser
+
+  - input: #21
+      base: [pen, pig, mud]
+      target: [reservoir, water, scum]
+    output:
+      mapping:
+      - pen --> reservoir
+      - pig --> water
+      - mud --> scum
+
+  - input: #22
+      base: [saxophone, jazz, musician ]
+      target: [typewriter, poetry, poet]
+    output:
+      mapping:
+      - saxophone --> typewriter
+      - jazz --> poetry
+      - musician --> poet
+
+  - input: #23
+      base: [sugar, coffee, coffeehouse]
+      target: [incentive, deal, dealership]
+    output:
+      mapping:
+      - sugar --> incentive
+      - coffee --> deal
+      - coffeehouse --> dealership
+
+  - input: #24
+      base: [train, track, steel]
+      target: [signal, wire, copper]
+    output:
+      mapping:
+      - train --> signal
+      - track --> wire
+      - steel --> copper
+
+  - input: #25
+      base: [watermelon, rind, sugar]
+      target: [cigarette, butt, nicotine]
+    output:
+      mapping:
+      - watermelon --> cigarette
+      - rind --> butt
+      - sugar --> nicotine
+
+  - input: #26
+      base: [movie, screen, sound]
+      target: [lightning, sky, thunder]
+    output:
+      mapping:
+      - movie --> lightning
+      - screen --> sky
+      - sound --> thunder
+
+  - input: #27
+      base: [basketball, hoop, court]
+      target: [traveler, destination, track]
+    output:
+      mapping:
+      - basketball --> traveler
+      - hoop --> destination
+      - court --> track
+
+  - input: #28
+      base: [kitten, cat, rat]
+      target: [spark, fire, wood]
+    output:
+      mapping:
+      - kitten --> spark
+      - cat --> fire
+      - rat --> wood
+
+  - input: #29
+      base: [immunization, disease, hospitalization]
+      target: [forewarning, surprise, heart attack]
+    output:
+      mapping:
+      - immunization --> forewarning
+      - disease --> surprise
+      - hospitalization --> heart attack
+      
+  - input: # 30
+      base: [thermometer, temperature, mercury]
+      target: [polygraph, honesty, pulse]
+    output:
+      mapping:
+      - thermometer --> polygraph
+      - temperature --> honesty
+      - mercury --> pulse
+
+  - input: # 31
+      base: [thoughts, brain, neurons]
+      target: [astronaut, space, stars]
+    output:
+      mapping:
+        - thoughts --> astronaut
+        - brain --> space
+        - neurons --> stars
+
+  - input: # 32
+      base: [water, pressure, bucket, pipe, rain]
+      target: [heat, temperature, kettle, iron, sun]
+    output:
+      mapping:
+        - water --> heat
+        - pressure --> temperature
+        - bucket --> kettle
+        - pipe --> iron
+        - rain --> sun
+  
+  - input: # 33
+      base: [waves, water, shore, breakwater]
+      target: [sounds, air, earplugs, ear]
+    output:
+      mapping:
+        - waves --> sounds
+        - water --> air
+        - shore --> ear
+        - breakwater --> earplugs
+  
+  - input: # 34
+      base: [goal, soccer, grass, feet]
+      target: [basket, basketball, hardwood, hands] 
+    output:
+      mapping:
+        - goal --> basket
+        - soccer --> basketball
+        - grass --> hardwood
+        - feet --> hands
+   
+  - input: # 35
+      base: [seeds, fruit, bloom]
+      target: [ideas, product, success] 
+    output:
+      mapping:
+        - seeds --> ideas
+        - fruit --> product
+        - bloom --> success
+
+  - input: # 36
+      base: [morning, breakfast, start, coffee]
+      target: [evening, dinner, end, wine] 
+    output:
+      mapping:
+        - morning --> evening
+        - breakfast --> dinner
+        - start --> end
+        - coffee --> wine

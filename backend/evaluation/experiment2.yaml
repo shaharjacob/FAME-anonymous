@@ -1,0 +1,65 @@
+mapping:
+  - input: #1
+      base: [earth, newton, gravity]
+      target: [electrons, nucleus, electricity, faraday]
+      use_base_mapping: False
+    output:
+      mapping:
+        - earth --> electrons
+        - gravity --> electricity
+        - newton --> faraday
+      suggestions:
+        - sun
+    ignore: False
+
+  - input: #2
+      base: [landscaper, lawn]
+      target: [stylist, hair, gel]
+      use_base_mapping: False
+    output:
+      mapping:
+        - landscaper --> stylist
+        - lawn --> hair
+      suggestions:
+        - fertilizer
+    ignore: False
+  
+  - input: #3
+      base: [chef, meal, pan, salt] 
+      target: [baker, cake, oven]
+      use_base_mapping: False
+    output:
+      mapping:
+        - chef --> baker
+        - meal --> cake
+        - pan --> oven
+      suggestions:
+        - butter
+        - sugar # the expected one
+    ignore: False
+
+  - input: #4
+      base: [answer, logic, riddle]
+      target: [key, mechanism]
+      use_base_mapping: True
+    output:
+      mapping:
+        - answer --> key
+        - logic --> mechanism
+      suggestions:
+        - problem
+        - lock # the expected one
+        - feedback
+    ignore: False
+
+  - input: #5
+      base: [sun, summer, sunscreen]
+      target: [rain, winter]
+      use_base_mapping: False
+    output:
+      mapping:
+        - sun --> rain
+        - summer --> winter
+      suggestions:
+        - umbrella
+    ignore: False

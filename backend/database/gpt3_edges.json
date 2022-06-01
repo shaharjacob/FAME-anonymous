@@ -1,0 +1,4189 @@
+{
+	"answer#riddle": [
+		"An answer is a solution to a riddle.",
+		"An answer is the opposite of a riddle."
+	],
+	"riddle#answer": [
+		"A riddle poses a question and the answer provides the solution.",
+		"A riddle is a question and the answer is the solution."
+	],
+	"key#lock": [
+		"A key opens a lock.",
+		"A key unlocks a lock."
+	],
+	"lock#key": [
+		"The key unlocks the lock.",
+		"The key opens the lock."
+	],
+	"ash#fireplace": [
+		"Ash is left over from a fire in the fireplace.",
+		"Ash is produced by a fire in the fireplace."
+	],
+	"fireplace#ash": [
+		"Ashes accumulate in the fireplace.",
+		"Ashes are deposited in the fireplace."
+	],
+	"lint#pocket": [
+		"Lint accumulates in pockets.",
+		"Lint collects in pockets."
+	],
+	"pocket#lint": [
+		"Pocket collects lint.",
+		"Pocket is a place where lint accumulates."
+	],
+	"aspirin#pain": [
+		"Aspirin relieves pain.",
+		"Aspirin cures pain.",
+		"Aspirin masks pain."
+	],
+	"pain#aspirin": [
+		"Aspirin alleviates pain.",
+		"Aspirin diminishes pain."
+	],
+	"muffler#noise": [
+		"A muffler reduces noise.",
+		"A muffler eliminates noise."
+	],
+	"noise#muffler": [
+		"Noise comes out of the muffler.",
+		"Noise is muffled by the muffler."
+	],
+	"baker#cake": [
+		"A baker makes cake.",
+		"A baker creates cake."
+	],
+	"cake#baker": [
+		"A cake is made by a baker.",
+		"A cake is baked by a baker."
+	],
+	"scientist#discovery": [
+		"A scientist makes a discovery.",
+		"A scientist discovers something."
+	],
+	"discovery#scientist": [
+		"A discovery is made by a scientist.",
+		"A discovery is an invention by a scientist."
+	],
+	"basket#picnic": [
+		"A basket is for holding a picnic.",
+		"A basket is a container for holding a picnic."
+	],
+	"picnic#basket": [
+		"A picnic is a meal that is usually eaten outdoors, in a basket.",
+		"A picnic is a meal that is usually eaten outdoors, from a basket."
+	],
+	"holster#gun": [
+		"The holster holds the gun.",
+		"The holster secures the gun."
+	],
+	"gun#holster": [
+		"A gun is placed in a holster",
+		"A gun is stored in a holster"
+	],
+	"basketball#hoop": [
+		"A basketball is inserted into the hoop.",
+		"A basketball is put through the hoop."
+	],
+	"hoop#basketball": [
+		"A hoop is used to play basketball.",
+		"A hoop is a part of a basketball game."
+	],
+	"traveler#destination": [
+		"A traveler goes to a destination.",
+		"A traveler arrives at a destination."
+	],
+	"destination#traveler": [
+		"The destination is the destination of the traveler.",
+		"The destination is the place the traveler is going to."
+	],
+	"blindness#sight": [
+		"Blindness is the inability to see.",
+		"Sight is the ability to see."
+	],
+	"sight#blindness": [
+		"Sight is the ability to see.",
+		"Blindness is the inability to see."
+	],
+	"poverty#money": [
+		"Poverty is the lack of money.",
+		"Poverty can be alleviated with money.",
+		"People in poverty often do not have money."
+	],
+	"money#poverty": [
+		"Money can reduce poverty.",
+		"Money can help reduce poverty."
+	],
+	"blizzard#snowflake": [
+		"A blizzard produces snowflakes.",
+		"A blizzard contains a lot of snowflakes."
+	],
+	"snowflake#blizzard": [
+		"Snowflakes fall during a blizzard."
+	],
+	"army#soldier": [
+		"An army has soldiers.",
+		"A soldier is a member of the army."
+	],
+	"soldier#army": [
+		"A soldier is a part of the army.",
+		"A soldier fights for the army.",
+		"A soldier is trained by the army."
+	],
+	"bracelet#wrist": [
+		"A bracelet is worn on the wrist.",
+		"A bracelet is an ornament worn on the wrist."
+	],
+	"wrist#bracelet": [
+		"A bracelet is worn on the wrist.",
+		"The bracelet is on the wrist."
+	],
+	"moat#castle": [
+		"A moat surrounds a castle.",
+		"A moat is a body of water that surrounds a castle."
+	],
+	"castle#moat": [
+		"A moat surrounds the castle.",
+		"A moat protects the castle."
+	],
+	"burger#bun": [
+		"The burger is between the bun.",
+		"The burger is on the bun."
+	],
+	"bun#burger": [
+		"A bun is the bread part of a burger.",
+		"A bun is a type of bread that is used to make burgers."
+	],
+	"book#cover": [
+		"The cover protects the book.",
+		"The cover is what protects the book."
+	],
+	"cover#book": [
+		"A cover protects a book.",
+		"A cover is used to protect a book."
+	],
+	"cleanser#face": [
+		"The cleanser helps to clean the face.",
+		"The cleanser is effective in removing dirt from the face."
+	],
+	"face#cleanser": [
+		"A face cleanser helps remove dirt and oil from the face.",
+		"A face cleanser is used to cleanse the face."
+	],
+	"soap#body": [
+		"Soap cleans the body.",
+		"Soap removes dirt from the body."
+	],
+	"body#soap": [
+		"Body dirt is removed by soap.",
+		"Soap helps to get rid of body dirt."
+	],
+	"eraser#pencil": [
+		"An eraser removes pencil marks.",
+		"An eraser can erase pencil markings."
+	],
+	"pencil#eraser": [
+		"A pencil has an eraser on one end.",
+		"A pencil has an eraser at one end."
+	],
+	"amnesia#memory": [
+		"Amnesia is the loss of memory.",
+		"Memory is the ability to remember."
+	],
+	"memory#amnesia": [
+		"Memory is the ability to remember.",
+		"Memory is the ability to store information.",
+		"Amnesia is the inability to remember.",
+		"Amnesia is the inability to store information."
+	],
+	"father#son": [
+		"A father is the male parent of a son.",
+		"A father is a male ancestor of a son."
+	],
+	"son#father": [
+		"A son is the offspring of a father.",
+		"A son inherits the father's genes."
+	],
+	"inventor#invention": [
+		"An inventor creates an invention.",
+		"An invention is created by an inventor."
+	],
+	"invention#inventor": [
+		"An invention is created by an inventor.",
+		"An invention is the product of an inventor."
+	],
+	"flock#goose": [
+		"Geese fly in a flock.",
+		"Geese travel in a flock."
+	],
+	"goose#flock": [
+		"A goose is a member of a flock.",
+		"A goose is a part of a flock."
+	],
+	"constellation#star": [
+		"A constellation is a group of stars.",
+		"A constellation is an area of the sky containing a number of stars."
+	],
+	"star#constellation": [
+		"A constellation is an area in the sky that is home to many stars.",
+		"A constellation is a group of stars."
+	],
+	"foresight#future": [
+		"Foresight is looking into the future.",
+		"Foresight is seeing into the future."
+	],
+	"future#foresight": [
+		"Future is what will happen.",
+		"Future is what is expected to happen.",
+		"Foresight is the ability to see what will happen in the future."
+	],
+	"x-ray#bone": [
+		"An x-ray is used to see bones.",
+		"An x-ray can see through bones."
+	],
+	"bone#x-ray": [
+		"A bone can be seen on an x-ray.",
+		"A bone absorbs x-rays."
+	],
+	"foundation#house": [
+		"The foundation supports the house.",
+		"The foundation is the base of the house."
+	],
+	"house#foundation": [
+		"The foundation supports the house.",
+		"The foundation is the base of the house."
+	],
+	"premise#argument": [
+		"A premise is a statement that is offered as evidence for an argument.",
+		"A premise is a statement that is used as the basis for an argument."
+	],
+	"argument#premise": [
+		"An argument has one or more premises.",
+		"An argument is based on one or more premises."
+	],
+	"furnace#coal": [
+		"The furnace burns coal to produce heat.",
+		"The furnace uses coal to produce heat."
+	],
+	"coal#furnace": [
+		"Coal is burned in the furnace to produce heat.",
+		"Coal is the fuel that powers the furnace."
+	],
+	"stomach#food": [
+		"The stomach digests the food.",
+		"The stomach breaks down the food."
+	],
+	"food#stomach": [
+		"Food is digested in the stomach.",
+		"Food is broken down in the stomach."
+	],
+	"hoof#hoofprint": [
+		"A hoof leaves a hoofprint.",
+		"A hoofprint is created by a hoof."
+	],
+	"hoofprint#hoof": [
+		"A hoofprint is made by a hoof.",
+		"A hoofprint is the track of a hoof."
+	],
+	"introduction#impression": [
+		"An introduction gives an impression.",
+		"An introduction creates an impression."
+	],
+	"impression#introduction": [
+		"An impression is the introduction.",
+		"The impression is the first thing someone sees."
+	],
+	"immunization#disease": [
+		"Immunization protects from disease.",
+		"Immunization prevents disease."
+	],
+	"disease#immunization": [
+		"Immunization protects from disease.",
+		"Immunization prevents disease."
+	],
+	"forewarning#surprise": [
+		"Forewarning reduces the element of surprise.",
+		"Forewarning minimizes the element of surprise."
+	],
+	"surprise#forewarning": [
+		"A surprise is an event that is not expected.",
+		"A forewarning is an event that warns of something that is going to happen."
+	],
+	"jacket#zipper": [
+		"A jacket has a zipper.",
+		"A jacket has a way to close it with a zipper."
+	],
+	"zipper#jacket": [
+		"A zipper closes a jacket.",
+		"A zipper opens a jacket."
+	],
+	"wound#suture": [
+		"A wound is closed with a suture.",
+		"A wound is held together with a suture."
+	],
+	"suture#wound": [
+		"Suture closes a wound.",
+		"Sutures close a wound."
+	],
+	"ketchup#tomato": [
+		"Ketchup is made from tomatoes.",
+		"Ketchup is a type of tomato sauce."
+	],
+	"tomato#ketchup": [
+		"Ketchup is made from tomatoes.",
+		"Ketchup is a type of tomato sauce."
+	],
+	"fuel#petroleum": [
+		"Petroleum is a type of fuel.",
+		"Petroleum is a combustible fuel."
+	],
+	"petroleum#fuel": [
+		"Petroleum is a type of fuel.",
+		"Petroleum is a combustible fuel."
+	],
+	"kitten#cat": [
+		"A kitten is a young cat.",
+		"A kitten is the offspring of a cat."
+	],
+	"cat#kitten": [
+		"A cat gives birth to a kitten.",
+		"A cat can have kittens."
+	],
+	"spark#fire": [
+		"Sparks can cause a fire.",
+		"Sparks can ignite a fire."
+	],
+	"fire#spark": [
+		"A spark is a small fire.",
+		"A spark is a tiny fire."
+	],
+	"knee#kneepad": [
+		"A kneepad protects the knee.",
+		"A kneepad cushions the knee."
+	],
+	"kneepad#knee": [
+		"A kneepad protects the knee.",
+		"A kneepad cushions the knee."
+	],
+	"snail#shell": [
+		"Snails use shells for protection.",
+		"Snails have shells to protect them."
+	],
+	"shell#snail": [
+		"Snails live in shells.",
+		"Snails have shells."
+	],
+	"lambchop#lamb": [
+		"Lambchop is a lamb.",
+		"Lambchop is a young sheep."
+	],
+	"lamb#lambchop": [
+		"Lamb is the meat of a lamb.",
+		"Lambchop is a type of lamb."
+	],
+	"chapter#book": [
+		"A chapter is a part of a book.",
+		"A chapter is a part of a book."
+	],
+	"book#chapter": [
+		"A book has chapters.",
+		"Chapters are found in books."
+	],
+	"landscaper#lawn": [
+		"A landscaper maintains a lawn.",
+		"A landscaper takes care of a lawn."
+	],
+	"lawn#landscaper": [
+		"The landscaper maintains the lawn.",
+		"The landscaper mows the lawn."
+	],
+	"stylist#hair": [
+		"A stylist is someone who cuts and styles hair.",
+		"A stylist is someone who trims and grooms hair."
+	],
+	"hair#stylist": [
+		"Hair is styled by a stylist.",
+		"Hair is cut and styled by a stylist."
+	],
+	"launchpad#helicopter": [
+		"A launchpad is used to launch helicopters.",
+		"A launchpad is a platform for helicopters to take off from."
+	],
+	"helicopter#launchpad": [
+		"A helicopter takes off from a launchpad.",
+		"A helicopter needs a launchpad to take off."
+	],
+	"divingboard#diver": [
+		"A divingboard is a platform for divers to jump off of into a pool of water.",
+		"A divingboard is a place for divers to jump off of."
+	],
+	"diver#divingboard": [
+		"A diver jumps off the divingboard.",
+		"A diver stands on the divingboard."
+	],
+	"lawschool#lawyer": [
+		"A law school trains lawyers.",
+		"A law school is the best place to become a lawyer."
+	],
+	"lawyer#lawschool": [
+		"A lawyer graduated from law school.",
+		"A lawyer is a graduate of law school."
+	],
+	"vineyard#wine": [
+		"Wine is made from grapes in a vineyard.",
+		"Wine is a product of a vineyard."
+	],
+	"wine#vineyard": [
+		"Wine is made from grapes in a vineyard.",
+		"Wine is made from the juice of grapes in a vineyard."
+	],
+	"movie#screen": [
+		"A movie displayed on a screen",
+		"A movie can be shown on a screen"
+	],
+	"screen#movie": [
+		"A movie is projected on a screen.",
+		"A movie is displayed on a screen."
+	],
+	"lightning#sky": [
+		"Lightning is a natural light show in the sky.",
+		"Lightning is a bright light in the sky."
+	],
+	"sky#lightning": [
+		"Sky is the source of lightning.",
+		"Sky is the place where lightning happens."
+	],
+	"multiplication#product": [
+		"Multiplication is the process of producing a product.",
+		"Multiplication is the result of product."
+	],
+	"product#multiplication": [
+		"The product of two numbers is the result of multiplying the numbers together.",
+		"The product of two numbers is the result of multiplying the numbers and then adding the results."
+	],
+	"brewing#beer": [
+		"Brewing is the process of making beer.",
+		"Beer is made through the process of brewing."
+	],
+	"beer#brewing": [
+		"Beer is brewed from certain ingredients.",
+		"Beer is made from certain ingredients."
+	],
+	"nose#scent": [
+		"The nose detects scent.",
+		"The nose smells scent."
+	],
+	"scent#nose": [
+		"A scent enters the nose.",
+		"A scent is perceived by the nose."
+	],
+	"antenna#signal": [
+		"An antenna receives the signal.",
+		"An antenna picks up the signal."
+	],
+	"signal#antenna": [
+		"A signal is transmitted by an antenna.",
+		"A signal is radiated by an antenna."
+	],
+	"orchard#apple": [
+		"Apples grow in an orchard.",
+		"Apples are cultivated in an orchard."
+	],
+	"apple#orchard": [
+		"An apple tree grows in an orchard.",
+		"Apples are grown in orchards."
+	],
+	"neighborhood#apartment": [
+		"A neighborhood is where people live in apartments.",
+		"A neighborhood is a collection of apartment buildings."
+	],
+	"apartment#neighborhood": [
+		"An apartment is in a neighborhood.",
+		"A neighborhood has many apartments."
+	],
+	"painting#canvas": [
+		"A painting is created on a canvas.",
+		"A painting is drawn on a canvas."
+	],
+	"canvas#painting": [
+		"A painting is displayed on a canvas.",
+		"A painting is created on a canvas."
+	],
+	"birthmark#skin": [
+		"A birthmark is a mark on the skin.",
+		"A birthmark is a blemish on the skin."
+	],
+	"skin#birthmark": [
+		"A birthmark is on the skin.",
+		"A birthmark is a blemish on the skin."
+	],
+	"pen#pig": [
+		"A pen is used to write with pig's blood.",
+		"A pen is used to write with a pig's blood."
+	],
+	"pig#pen": [
+		"Pigs live in pens.",
+		"Pigs are raised in pens."
+	],
+	"reservoir#water": [
+		"A reservoir stores water.",
+		"A reservoir is a container that holds water."
+	],
+	"water#reservoir": [
+		"A reservoir stores water.",
+		"A reservoir contains water."
+	],
+	"rectangle#perimeter": [
+		"The perimeter of a rectangle is the sum of the lengths of its four sides.",
+		"The perimeter of a rectangle is the distance around the rectangle."
+	],
+	"perimeter#rectangle": [
+		"The perimeter of a rectangle is the sum of its length and width.",
+		"The perimeter of a rectangle is the distance around it.",
+		"The perimeter of a rectangle is twice its width."
+	],
+	"nation#border": [
+		"A nation is bounded by a border.",
+		"A nation has a border."
+	],
+	"border#nation": [
+		"A border is the line that separates two nations.",
+		"A nation can have more than one border."
+	],
+	"revising#manuscript": [
+		"Revising improves the manuscript.",
+		"Revising makes the manuscript better."
+	],
+	"manuscript#revising": [
+		"A manuscript is a document that has been revised.",
+		"A manuscript is a document that needs to be revised."
+	],
+	"evolving#species": [
+		"Species evolve over time.",
+		"Species are constantly evolving."
+	],
+	"species#evolving": [
+		"Species evolve over time.",
+		"Species change over time."
+	],
+	"saxophone#jazz": [
+		"A saxophone is a common instrument in jazz music.",
+		"A saxophone is often used in jazz music."
+	],
+	"jazz#saxophone": [
+		"Jazz is played with a saxophone.",
+		"A saxophone is often used in jazz music."
+	],
+	"typewriter#poetry": [
+		"Typewriter is used to produce poetry.",
+		"Typewriter is used to write poetry."
+	],
+	"poetry#typewriter": [
+		"Poetry is often typed on a typewriter.",
+		"Poetry is often composed on a typewriter."
+	],
+	"sugar#coffee": [
+		"Sugar is added to coffee.",
+		"Sugar is dissolved in coffee."
+	],
+	"coffee#sugar": [
+		"Coffee is often sweetened with sugar.",
+		"Sugar is often added to coffee."
+	],
+	"incentive#deal": [
+		"An incentive is an inducement to deal.",
+		"An incentive is an encouragement to make a deal."
+	],
+	"deal#incentive": [
+		"A good deal is an incentive.",
+		"A good deal is an attractive incentive."
+	],
+	"thermometer#temperature": [
+		"A thermometer measures the temperature.",
+		"A thermometer is used to measure the temperature."
+	],
+	"temperature#thermometer": [
+		"Temperature is measured by a thermometer.",
+		"Temperature is measured with a thermometer."
+	],
+	"polygraph#honesty": [
+		"Polygraph tests measure honesty.",
+		"Polygraph tests detect honesty."
+	],
+	"honesty#polygraph": [
+		"Honesty is the best policy",
+		"Honesty is the key to success",
+		"Polygraphs detect dishonesty"
+	],
+	"train#track": [
+		"A train runs on the track.",
+		"A train rides on the track."
+	],
+	"track#train": [
+		"The train rides on the track.",
+		"The train travels on the track."
+	],
+	"signal#wire": [
+		"A signal travels along a wire.",
+		"A signal is transmitted through a wire."
+	],
+	"wire#signal": [
+		"A wire transmits a signal.",
+		"A wire sends a signal."
+	],
+	"watermelon#rind": [
+		"The watermelon contains the rind.",
+		"The rind is on the outside of the watermelon."
+	],
+	"rind#watermelon": [
+		"The rind protects the watermelon.",
+		"The rind is a layer that protects the watermelon."
+	],
+	"cigarette#butt": [
+		"A cigarette butt is the end of a cigarette.",
+		"A cigarette butt is the remnant of a cigarette."
+	],
+	"butt#cigarette": [
+		"A butt is the end of a cigarette.",
+		"A butt is the part of a cigarette that is smoked."
+	],
+	"solution#problem": [
+		"A problem is a difficult question or puzzle that needs a solution.",
+		"A problem is a situation that needs to be fixed."
+	],
+	"problem#solution": [
+		"A problem is a difficulty to be solved.",
+		"A problem is an obstacle to be overcome."
+	],
+	"soot#chimney": [
+		"Soot accumulates on the inside of the chimney.",
+		"Soot is produced by incomplete combustion of fuel in the chimney."
+	],
+	"chimney#soot": [
+		"Soot accumulates inside the chimney.",
+		"Soot is produced by the burning of coal or wood in a fireplace or furnace."
+	],
+	"antacid#heartburn": [
+		"Antacid relieves heartburn.",
+		"Antacid helps relieve heartburn."
+	],
+	"heartburn#antacid": [
+		"Antacid relieves heartburn.",
+		"Antacid cures heartburn."
+	],
+	"chef#meal": [
+		"A chef creates a meal.",
+		"A chef cooks a meal."
+	],
+	"meal#chef": [
+		"The chef cooks the meal.",
+		"The chef prepares the meal."
+	],
+	"lunchbox#lunch": [
+		"A lunchbox contains lunch.",
+		"A lunchbox holds lunch."
+	],
+	"lunch#lunchbox": [
+		"A lunch is placed in a lunchbox.",
+		"A lunch is stored in a lunchbox."
+	],
+	"soccerball#goal": [
+		"A soccerball is kicked into the goal.",
+		"A soccerball is used to score a goal."
+	],
+	"goal#soccerball": [
+		"The goal is the target of the soccerball.",
+		"The goal is the destination of the soccerball."
+	],
+	"deafness#hearing": [
+		"Deafness refers to the inability to hear.",
+		"Hearing is the ability to perceive sound."
+	],
+	"hearing#deafness": [
+		"Hearing is the ability to perceive sound.",
+		"Deafness is the inability to perceive sound."
+	],
+	"monsoon#raindrop": [
+		"Monsoon is the season of rain.",
+		"Monsoon rains often in the form of raindrops."
+	],
+	"raindrop#monsoon": [
+		"A monsoon is a seasonal wind that brings rain to some parts of the world.",
+		"A monsoon is a type of raindrop."
+	],
+	"ring#finger": [
+		"A ring is worn on a finger.",
+		"A ring is placed on a finger."
+	],
+	"finger#ring": [
+		"A finger wears a ring.",
+		"A finger is adorned with a ring."
+	],
+	"sub#roll": [
+		"A submarine rolls on the surface of the water.",
+		"A submarine moves by rolling on the surface of the water."
+	],
+	"roll#sub": [
+		"A roll is a type of sub.",
+		"A roll is a type of submarine."
+	],
+	"whiteout#pen": [
+		"Whiteout can be used to write with a pen.",
+		"Whiteout can be used to write with a marker."
+	],
+	"pen#whiteout": [
+		"Whiteout can be used to erase pen writing.",
+		"Whiteout can be used to cover up pen writing."
+	],
+	"mother#daughter": [
+		"A mother gives birth to a daughter.",
+		"A mother nurtures a daughter."
+	],
+	"daughter#mother": [
+		"A daughter is the offspring of a mother.",
+		"A daughter inherits genes from her mother."
+	],
+	"wolfpack#wolf": [
+		"A wolfpack is a group of wolves.",
+		"A wolfpack is a pack of wolves."
+	],
+	"wolf#wolfpack": [
+		"A wolfpack is a group of wolves.",
+		"A wolfpack is a group of animals that are wolves."
+	],
+	"hindsight#past": [
+		"Hindsight is looking at the past.",
+		"Hindsight is the ability to see the past."
+	],
+	"past#hindsight": [
+		"Hindsight is knowing the past.",
+		"Hindsight is looking back at the past."
+	],
+	"base#structure": [
+		"A base supports the structure.",
+		"A base is the foundation of the structure."
+	],
+	"structure#base": [
+		"The base supports the structure.",
+		"The base is the foundation of the structure."
+	],
+	"woodstove#wood": [
+		"The woodstove uses wood to produce heat.",
+		"The woodstove is fueled by wood."
+	],
+	"wood#woodstove": [
+		"Wood is burned in a woodstove.",
+		"Wood is the main fuel for a woodstove."
+	],
+	"paw#pawprint": [
+		"A paw leaves a pawprint.",
+		"A paw leaves a track."
+	],
+	"pawprint#paw": [
+		"A pawprint is the impression of a paw.",
+		"A pawprint is the result of a paw."
+	],
+	"vaccination#infection": [
+		"A vaccination prevents infection.",
+		"A vaccination protects from infection."
+	],
+	"infection#vaccination": [
+		"Infection can be prevented by vaccination.",
+		"Infection is less likely to occur with vaccination."
+	],
+	"overcoat#button": [
+		"The button fastens the overcoat.",
+		"The button keeps the overcoat together."
+	],
+	"button#overcoat": [
+		"Button fastens overcoat.",
+		"Button secures overcoat."
+	],
+	"guacamole#avocado": [
+		"Guacamole is made from avocados.",
+		"Guacamole is a type of avocado."
+	],
+	"avocado#guacamole": [
+		"Guacamole is an avocado dish.",
+		"Guacamole is made from avocados."
+	],
+	"puppy#dog": [
+		"A puppy is a baby dog.",
+		"A puppy is a juvenile dog.",
+		"A puppy is a young dog."
+	],
+	"dog#puppy": [
+		"A dog is the parent of a puppy.",
+		"A dog can give birth to a puppy."
+	],
+	"elbow#elbowpad": [
+		"An elbowpad protects the elbow.",
+		"An elbowpad is worn on the elbow."
+	],
+	"elbowpad#elbow": [
+		"Elbowpad protects the elbow",
+		"Elbowpad cushions the elbow"
+	],
+	"porkchop#pig": [
+		"Porkchop is a cut of pig.",
+		"Porkchop is a type of pig meat."
+	],
+	"pig#porkchop": [
+		"A pig is the source of porkchops.",
+		"Pigs provide the main source of pork chops."
+	],
+	"gardener#garden": [
+		"A gardener takes care of the garden.",
+		"A gardener plants and takes care of the garden."
+	],
+	"garden#gardener": [
+		"The gardener takes care of the garden.",
+		"The gardener plants and takes care of the garden."
+	],
+	"runway#airplane": [
+		"A runway is where an airplane takes off and lands.",
+		"A runway is the place where an airplane lands and takes off."
+	],
+	"airplane#runway": [
+		"An airplane takes off from a runway.",
+		"An airplane lands on a runway."
+	],
+	"medschool#doctor": [
+		"A medschool trains doctors.",
+		"A medschool is a place where doctors are trained."
+	],
+	"doctor#medschool": [
+		"A doctor graduated from medschool.",
+		"A doctor studied at medschool."
+	],
+	"gameshow#television": [
+		"A gameshow is a type of television program.",
+		"A gameshow is a television program that is usually considered to be light and entertaining."
+	],
+	"television#gameshow": [
+		"A television show is a gameshow.",
+		"A television show is a game show."
+	],
+	"addition#sum": [
+		"The sum of two numbers is their addition.",
+		"The addition of two numbers is their sum."
+	],
+	"sum#addition": [
+		"The sum of two numbers is the result of addition.",
+		"The sum of two numbers is the result of adding the numbers."
+	],
+	"tongue#taste": [
+		"The tongue senses taste.",
+		"The tongue is responsible for taste."
+	],
+	"taste#tongue": [
+		"Taste is perceived by the tongue.",
+		"The tongue is the organ of taste."
+	],
+	"grove#orange": [
+		"An orange tree has a grove.",
+		"A grove is a place where orange trees grow."
+	],
+	"orange#grove": [
+		"An orange tree grows in a grove.",
+		"A grove is a place where orange trees grow."
+	],
+	"drawing#paper": [
+		"A drawing is made on paper.",
+		"A drawing is a representation of something on paper."
+	],
+	"paper#drawing": [
+		"Paper is used for drawing.",
+		"Paper is a suitable material for drawing."
+	],
+	"coop#chicken": [
+		"The coop protects the chickens from the elements and predators.",
+		"The coop is a place where chickens can live."
+	],
+	"chicken#coop": [
+		"Chickens live in coops.",
+		"Chickens are housed in coops."
+	],
+	"circle#circumference": [
+		"The circumference of a circle is the distance around the circle.",
+		"The circumference of a circle is the length of the line that goes around the circle."
+	],
+	"circumference#circle": [
+		"The circumference of a circle is the distance around it.",
+		"The circumference of a circle is the same as the diameter of a circle."
+	],
+	"editing#story": [
+		"Editing changes the story.",
+		"Editing is the process of changing the story."
+	],
+	"story#editing": [
+		"Editing is necessary for a story.",
+		"Editing can make or break a story."
+	],
+	"harmonica#blues": [
+		"The harmonica is often used in blues music.",
+		"The harmonica is a common instrument in blues music."
+	],
+	"blues#harmonica": [
+		"The harmonica is commonly used in blues music.",
+		"The harmonica is often played in blues music."
+	],
+	"honey#tea": [
+		"Honey is mixed with tea.",
+		"Honey is put into tea."
+	],
+	"tea#honey": [
+		"Honey is often added to tea.",
+		"Adding honey to tea sweetens it."
+	],
+	"barometer#pressure": [
+		"A barometer measures air pressure.",
+		"A barometer measures the atmospheric pressure."
+	],
+	"pressure#barometer": [
+		"A barometer measures pressure.",
+		"A barometer measures the atmospheric pressure.",
+		"A barometer is a device used to measure pressure."
+	],
+	"trolley#rail": [
+		"A trolley runs on the rail.",
+		"A trolley rides on the rail."
+	],
+	"rail#trolley": [
+		"A rail is the part of the track that a trolley wheels run on.",
+		"A rail is the metal bar that a trolley wheels run on."
+	],
+	"orange#peel": [
+		"An orange has a peel.",
+		"The peel is the outermost layer of an orange."
+	],
+	"peel#orange": [
+		"The orange peel is the skin of the orange.",
+		"The orange peel is the outside skin of the orange."
+	],
+	"key#mechanism": [
+		"The key turns the mechanism.",
+		"The key unlocks the mechanism."
+	],
+	"mechanism#key": [
+		"The key turns the mechanism.",
+		"The key is inserted into the mechanism."
+	],
+	"lock#mechanism": [
+		"The lock secures the mechanism.",
+		"The lock is a part of the mechanism."
+	],
+	"mechanism#lock": [
+		"A mechanism unlocks the lock.",
+		"A mechanism opens the lock."
+	],
+	"answer#logic": [
+		"The answer is the result of applying logic.",
+		"The answer is the outcome of a logical process."
+	],
+	"logic#answer": [
+		"Logic is the answer.",
+		"Logic is the process of finding the answer."
+	],
+	"riddle#logic": [
+		"A riddle is a problem that requires logic to solve it.",
+		"A riddle is a puzzle that requires logic to solve it."
+	],
+	"logic#riddle": [
+		"Logic is used to solve riddles.",
+		"Logic is the key to solving riddles."
+	],
+	"lint#fabric": [
+		"Lint is made of fabric.",
+		"Lint is a type of fabric."
+	],
+	"fabric#lint": [
+		"Fabric collects lint.",
+		"Fabric attracts lint."
+	],
+	"pocket#fabric": [
+		"The pocket is a part of the fabric.",
+		"The pocket is made out of the fabric."
+	],
+	"fabric#pocket": [
+		"Fabric is placed in the pocket.",
+		"Fabric is put in the pocket."
+	],
+	"ash#wood": [
+		"Ash is the residue of wood.",
+		"Ash is the remains of wood."
+	],
+	"wood#ash": [
+		"Wood ashes are the remains of wood.",
+		"Ashes are the remains of a fire."
+	],
+	"fireplace#wood": [
+		"Wood is burned in the fireplace.",
+		"Wood is the main material used in a fireplace."
+	],
+	"wood#fireplace": [
+		"Wood is burned in the fireplace.",
+		"Wood is used to produce heat in the fireplace."
+	],
+	"muffler#engine": [
+		"The muffler helps the engine run quietly.",
+		"The muffler decreases the noise of the engine."
+	],
+	"engine#muffler": [
+		"The engine needs the muffler to run properly.",
+		"The engine creates noise which the muffler reduces."
+	],
+	"muffler#decibel": [
+		"A muffler reduces the decibel level.",
+		"A muffler diminishes the decibel level."
+	],
+	"decibel#muffler": [
+		"A muffler reduces the decibel of a sound.",
+		"A muffler muffles the decibel of a sound."
+	],
+	"noise#engine": [
+		"Noise is created by the engine.",
+		"Noise is a result of the engine."
+	],
+	"engine#noise": [
+		"An engine makes noise.",
+		"An engine emits noise."
+	],
+	"noise#decibel": [
+		"A higher decibel level means more noise.",
+		"A higher decibel level indicates more noise."
+	],
+	"decibel#noise": [
+		"A decibel is a measure of noise.",
+		"A decibel is a unit of measure for noise."
+	],
+	"engine#decibel": [
+		"The engine creates the decibel.",
+		"The engine emits the decibel."
+	],
+	"decibel#engine": [
+		"A decibel is a unit of measurement for the intensity of an engine.",
+		"A decibel is a unit of measurement for the power of an engine."
+	],
+	"aspirin#injury": [
+		"Aspirin relieves pain associated with injury.",
+		"Aspirin is used to treat pain associated with injury."
+	],
+	"injury#aspirin": [
+		"Aspirin can help to heal an injury.",
+		"Aspirin can help to reduce the inflammation associated with an injury."
+	],
+	"aspirin#pain scale": [
+		"Aspirin reduces pain scale.",
+		"Aspirin decreases pain scale."
+	],
+	"pain scale#aspirin": [
+		"Pain scale is used to measure the effectiveness of aspirin.",
+		"Pain scale is used to measure the amount of aspirin needed."
+	],
+	"pain#injury": [
+		"Pain is a signal of injury.",
+		"Injury is the cause of pain."
+	],
+	"injury#pain": [
+		"Injury can cause pain.",
+		"Injury can lead to pain."
+	],
+	"pain#pain scale": [
+		"Pain is measured on a pain scale.",
+		"Pain is quantified on a pain scale."
+	],
+	"pain scale#pain": [
+		"The pain scale quantifies pain.",
+		"Pain is measured on the pain scale."
+	],
+	"injury#pain scale": [
+		"A pain scale measures the intensity of an injury.",
+		"A pain scale helps to determine the severity of an injury."
+	],
+	"pain scale#injury": [
+		"The pain scale measures the intensity of an injury.",
+		"The pain scale evaluates the severity of an injury."
+	],
+	"scientist#research": [
+		"A scientist conducts research.",
+		"A scientist investigates research."
+	],
+	"research#scientist": [
+		"Research is the work of a scientist.",
+		"Research is what a scientist does."
+	],
+	"scientist#data": [
+		"Scientists analyze data.",
+		"Scientists use data to support their hypotheses."
+	],
+	"data#scientist": [
+		"Data is the raw material that scientists analyze.",
+		"Data is the information that scientists use."
+	],
+	"discovery#research": [
+		"Discovery is the result of research.",
+		"Research is what leads to discovery."
+	],
+	"research#discovery": [
+		"Research leads to discovery.",
+		"Research is a precursor to discovery."
+	],
+	"discovery#data": [
+		"A discovery is data that is found.",
+		"A discovery is something that is found by data."
+	],
+	"data#discovery": [
+		"Data is used in the discovery process.",
+		"Data is necessary for the discovery process."
+	],
+	"research#data": [
+		"Research produces data.",
+		"Research is based on data."
+	],
+	"data#research": [
+		"Data is the result of research.",
+		"Data is the output of research."
+	],
+	"baker#recipe": [
+		"A baker follows a recipe.",
+		"A baker needs a recipe."
+	],
+	"recipe#baker": [
+		"A recipe is followed by a baker.",
+		"A recipe is made by a baker."
+	],
+	"baker#ingredients": [
+		"The baker uses the ingredients to make a cake.",
+		"The baker is responsible for adding the ingredients to the cake."
+	],
+	"ingredients#baker": [
+		"The baker mixes the ingredients.",
+		"The baker assembles the ingredients."
+	],
+	"cake#recipe": [
+		"A cake is made from a recipe.",
+		"A cake is a baked good that follows a recipe."
+	],
+	"recipe#cake": [
+		"A recipe is used to make a cake.",
+		"A recipe is a set of instructions for making a cake."
+	],
+	"cake#ingredients": [
+		"A cake is made from ingredients.",
+		"A cake is made from flour, sugar, eggs, and butter."
+	],
+	"ingredients#cake": [
+		"The ingredients are mixed together to make a cake.",
+		"The ingredients are put into a cake pan to make a cake."
+	],
+	"recipe#ingredients": [
+		"A recipe contains ingredients.",
+		"The ingredients in a recipe are necessary for the recipe."
+	],
+	"ingredients#recipe": [
+		"The recipe is made of the ingredients.",
+		"The recipe is composed of the ingredients."
+	],
+	"holster#bullets": [
+		"Bullets are put into the holster.",
+		"Bullets are stored in the holster."
+	],
+	"bullets#holster": [
+		"Bullets fit in the holster.",
+		"Bullets are stored in the holster."
+	],
+	"gun#bullets": [
+		"A gun fires bullets.",
+		"A gun is a weapon that fires bullets."
+	],
+	"bullets#gun": [
+		"Bullets are shot out of a gun.",
+		"Bullets are propelled out of a gun."
+	],
+	"basket#ingredients": [
+		"The ingredients are put into the basket.",
+		"The ingredients are put in the basket."
+	],
+	"ingredients#basket": [
+		"The ingredients are put in the basket.",
+		"The ingredients are put in the container."
+	],
+	"picnic#ingredients": [
+		"The ingredients for a picnic are food and drink.",
+		"The items necessary for a picnic are food and drink."
+	],
+	"ingredients#picnic": [
+		"The ingredients are necessary for a picnic.",
+		"The ingredients are what make a picnic."
+	],
+	"poverty#beggar": [
+		"Poverty causes begging.",
+		"Beggars are a symptom of poverty."
+	],
+	"beggar#poverty": [
+		"A beggar is poor.",
+		"Poverty begets begging."
+	],
+	"money#beggar": [
+		"Money is given to beggars.",
+		"Money is used to bribe beggars.",
+		"Money can be donated to beggars."
+	],
+	"beggar#money": [
+		"A beggar asks for money.",
+		"A beggar needs money."
+	],
+	"blindness#blind": [
+		"Blindness is the state of being blind.",
+		"Blindness is the inability to see."
+	],
+	"blind#blindness": [
+		"Blindness is the inability to see.",
+		"Blindness is the state of being unable to see."
+	],
+	"sight#blind": [
+		"Sight is when you can see.",
+		"Blind is when you can't see."
+	],
+	"blind#sight": [
+		"Blind people do not see.",
+		"Blind people cannot see."
+	],
+	"army#enlistment": [
+		"Joining the army means enlistment.",
+		"Being enlisted in the army."
+	],
+	"enlistment#army": [
+		"Enlistment is joining the army.",
+		"Enlistment is the process of joining the army."
+	],
+	"army#wound": [
+		"An army inflicts wounds.",
+		"An army can cause wounds."
+	],
+	"wound#army": [
+		"Wounds are common in an army.",
+		"Wounds are often seen in an army."
+	],
+	"soldier#enlistment": [
+		"A soldier enlists in the army.",
+		"A soldier joins the army."
+	],
+	"enlistment#soldier": [
+		"Enlistment is the process of becoming a soldier",
+		"Enlistment is the process of becoming a part of the military"
+	],
+	"soldier#wound": [
+		"A soldier can get wounded in battle.",
+		"A soldier can be injured in battle."
+	],
+	"wound#soldier": [
+		"A wound is suffered by a soldier.",
+		"A wound is inflicted on a soldier."
+	],
+	"enlistment#wound": [
+		"Enlistment is a wound.",
+		"Enlistment is a injury."
+	],
+	"wound#enlistment": [
+		"A wound is an injury that results from an accident or surgery.",
+		"Enlistment is the process of formally joining a military organization."
+	],
+	"blizzard#turbulence": [
+		"Blizzards are often turbulent.",
+		"Blizzards are often accompanied by turbulence."
+	],
+	"turbulence#blizzard": [
+		"Turbulence is often associated with blizzards.",
+		"Turbulence is a common occurrence during blizzards."
+	],
+	"blizzard#salt": [
+		"A blizzard needs salt to form.",
+		"A blizzard is made of salt."
+	],
+	"salt#blizzard": [
+		"Salt is often put in blizzards to make them more dangerous.",
+		"Salt is put in blizzards to make them more dangerous."
+	],
+	"snowflake#turbulence": [
+		"Snowflakes get blown around in turbulence.",
+		"Snowflakes are affected by turbulence."
+	],
+	"turbulence#snowflake": [
+		"Turbulence creates snowflakes.",
+		"Turbulence causes snowflakes to form."
+	],
+	"snowflake#salt": [
+		"A snowflake melts when it comes in contact with salt.",
+		"A snowflake turns into water when it comes in contact with salt."
+	],
+	"salt#snowflake": [
+		"Salt can make snowflakes.",
+		"Salt can form snowflakes."
+	],
+	"turbulence#salt": [
+		"Turbulence dissolves salt.",
+		"Salt is dissolved by turbulence."
+	],
+	"salt#turbulence": [
+		"Salt creates turbulence.",
+		"Salt makes turbulence."
+	],
+	"moat#water": [
+		"A moat surrounds the water.",
+		"A moat is filled with water."
+	],
+	"water#moat": [
+		"A moat surrounds a castle and is filled with water.",
+		"A moat is a body of water that surrounds a castle or fort."
+	],
+	"moat#stone": [
+		"A moat surrounds the stone.",
+		"The moat protects the stone."
+	],
+	"stone#moat": [
+		"A stone is thrown into the moat",
+		"A stone is placed in the moat",
+		"A stone blocks the moat"
+	],
+	"castle#water": [
+		"A castle is built on water.",
+		"A castle is next to water."
+	],
+	"water#castle": [
+		"A castle is built on water.",
+		"A castle is surrounded by water."
+	],
+	"castle#stone": [
+		"Castles are made of stone.",
+		"Castles are constructed with stone."
+	],
+	"stone#castle": [
+		"A stone is the material from which a castle is made.",
+		"A stone is the foundation of a castle."
+	],
+	"water#stone": [
+		"Water erodes the stone",
+		"Water destroys the stone over time"
+	],
+	"stone#water": [
+		"Stone repels water.",
+		"Stone doesn't mix with water."
+	],
+	"bracelet#silver": [
+		"A bracelet is made of silver.",
+		"A bracelet is covered in silver."
+	],
+	"silver#bracelet": [
+		"A silver bracelet is an ornament worn on the wrist.",
+		"A silver bracelet is a type of jewelry."
+	],
+	"bracelet#bone": [
+		"A bracelet is made of bone.",
+		"A bracelet is a type of bone."
+	],
+	"bone#bracelet": [
+		"A bracelet is made of bone.",
+		"A bracelet is an ornament made of bone."
+	],
+	"wrist#silver": [
+		"A wristwatch is made of silver.",
+		"A wristwatch is a type of silver jewelry."
+	],
+	"silver#wrist": [
+		"Silver is often used to make wristwatch bands.",
+		"Silver is often used to make wristbands."
+	],
+	"wrist#bone": [
+		"A wrist is a bone in the hand.",
+		"The wrist is a bone in the human hand."
+	],
+	"bone#wrist": [
+		"The wrist is where the bones of the hand meet the bones of the forearm.",
+		"The bones in the wrist are the most slender bones in the human body."
+	],
+	"silver#bone": [
+		"Silver is used to treat bones.",
+		"Silver is used to strengthen bones."
+	],
+	"bone#silver": [
+		"Bones are strengthened by silver.",
+		"Bones are made of silver."
+	],
+	"book#papers": [
+		"A book is made of papers.",
+		"Papers are used to make books."
+	],
+	"papers#book": [
+		"Papers are used to make books.",
+		"Papers are glued together to make books."
+	],
+	"cover#papers": [
+		"The cover protects the papers.",
+		"The cover keeps the papers from getting wet."
+	],
+	"papers#cover": [
+		"Papers are covered with a cover.",
+		"Papers are protected with a cover."
+	],
+	"burger#meat": [
+		"A burger is made of meat.",
+		"A burger contains meat."
+	],
+	"meat#burger": [
+		"Meat is used to make a burger."
+	],
+	"bun#meat": [
+		"A bun contains a piece of meat.",
+		"A bun is made of meat."
+	],
+	"meat#bun": [
+		"Meat is sandwiched between two buns.",
+		"Meat is between two buns."
+	],
+	"amnesia#mind": [
+		"Amnesia is a loss of memory.",
+		"Amnesia is the impairment of memory."
+	],
+	"mind#amnesia": [
+		"A person with amnesia has a damaged mind.",
+		"A person with amnesia cannot remember anything."
+	],
+	"memory#mind": [
+		"Memory is stored in the mind.",
+		"Memory is a function of the mind."
+	],
+	"mind#memory": [
+		"The mind stores memories.",
+		"The mind recalls memories."
+	],
+	"eraser#paper": [
+		"An eraser removes pencil marks from paper.",
+		"An eraser can erase pencil marks from paper."
+	],
+	"paper#eraser": [
+		"Paper can be erased by an eraser.",
+		"Paper can be removed by an eraser."
+	],
+	"pencil#paper": [
+		"A pencil writes on paper.",
+		"A pencil leaves a mark on paper."
+	],
+	"paper#pencil": [
+		"Paper is written on with a pencil.",
+		"Paper is written on with a pen."
+	],
+	"constellation#sky": [
+		"Constellations are patterns of stars in the sky.",
+		"Constellations are located in the sky."
+	],
+	"sky#constellation": [
+		"The sky contains constellations.",
+		"The sky has constellations."
+	],
+	"star#sky": [
+		"A star is a light in the sky.",
+		"A star is in the sky."
+	],
+	"sky#star": [
+		"A sky with stars",
+		"A sky with shining stars"
+	],
+	"flock#lake": [
+		"A flock of birds gathers on the lake.",
+		"A flock of birds nests on the lake."
+	],
+	"lake#flock": [
+		"A flock of birds often rests on a lake.",
+		"A flock of birds is usually found near a lake."
+	],
+	"goose#lake": [
+		"A goose lives on a lake.",
+		"A goose swims in a lake."
+	],
+	"lake#goose": [
+		"Geese live near lakes.",
+		"Geese are often seen near lakes."
+	],
+	"stomach#energy": [
+		"The stomach converts energy into useful forms.",
+		"The stomach stores energy."
+	],
+	"energy#stomach": [
+		"Energy is consumed by the stomach.",
+		"Energy is used by the stomach."
+	],
+	"food#energy": [
+		"Food is the source of energy.",
+		"Food is a source of energy."
+	],
+	"energy#food": [
+		"Energy is the ability to do work.",
+		"Energy is what you need to live.",
+		"Food is converted into energy."
+	],
+	"furnace#heat": [
+		"The furnace produces heat.",
+		"The furnace gives off heat."
+	],
+	"heat#furnace": [
+		"Heat is produced by the furnace.",
+		"Heat is created by the furnace."
+	],
+	"coal#heat": [
+		"Coal is burned to produce heat.",
+		"Coal is used to produce heat."
+	],
+	"heat#coal": [
+		"Coal is burned to produce heat.",
+		"Coal is used to produce heat."
+	],
+	"wound#infection": [
+		"A wound can become infected.",
+		"A wound is vulnerable to infection."
+	],
+	"infection#wound": [
+		"Infection can occur in a wound.",
+		"A wound can become infected."
+	],
+	"suture#infection": [
+		"A suture can cause infection.",
+		"A suture can lead to infection."
+	],
+	"infection#suture": [
+		"Infection can occur at the site of a suture.",
+		"Infection can occur where a suture was used."
+	],
+	"jacket#cold": [
+		"A jacket protects from the cold.",
+		"A jacket helps protect from the cold."
+	],
+	"cold#jacket": [
+		"A jacket protects from cold.",
+		"A jacket keeps you warm in cold weather."
+	],
+	"zipper#cold": [
+		"A zipper prevents cold air from entering.",
+		"A zipper prevents cold weather from entering.",
+		"A zipper prevents cold from entering."
+	],
+	"cold#zipper": [
+		"A cold weather can make a zipper freeze.",
+		"A cold weather can make a zipper malfunction."
+	],
+	"fuel#car": [
+		"The car needs fuel to run.",
+		"The car can't run without fuel."
+	],
+	"car#fuel": [
+		"A car needs fuel to run.",
+		"A car runs on fuel."
+	],
+	"fuel#dinosaurs": [
+		"Dinosaurs were killed by the lack of fuel.",
+		"Dinosaurs became extinct because they lacked fuel."
+	],
+	"dinosaurs#fuel": [
+		"Dinosaurs used fuel to move.",
+		"Dinosaurs needed fuel to move."
+	],
+	"petroleum#car": [
+		"Petroleum is used to power cars.",
+		"Petroleum is used to make cars run."
+	],
+	"car#petroleum": [
+		"Cars run on petroleum.",
+		"Cars use petroleum as fuel."
+	],
+	"petroleum#dinosaurs": [
+		"Petroleum is the remains of dinosaurs.",
+		"Petroleum is the fossil fuel of dinosaurs."
+	],
+	"dinosaurs#petroleum": [
+		"Dinosaurs were killed by a petroleum-based disaster.",
+		"Dinosaurs were wiped out by an oil-based disaster."
+	],
+	"car#dinosaurs": [
+		"Cars existed long before dinosaurs.",
+		"Dinosaurs never rode in cars."
+	],
+	"dinosaurs#car": [
+		"Dinosaurs were once driven in cars.",
+		"Dinosaurs used to be transported in cars."
+	],
+	"ketchup#french fries": [
+		"Ketchup is a condiment for french fries.",
+		"Ketchup is a sauce for french fries."
+	],
+	"french fries#ketchup": [
+		"French fries are dipped in ketchup.",
+		"Ketchup is put on french fries."
+	],
+	"ketchup#seeds": [
+		"Ketchup contains seeds.",
+		"Ketchup is made from seeds."
+	],
+	"seeds#ketchup": [
+		"Seeds are an ingredient in ketchup.",
+		"Seeds are a component of ketchup."
+	],
+	"tomato#french fries": [
+		"Tomatoes are used to make french fries.",
+		"French fries are made from tomatoes."
+	],
+	"french fries#tomato": [
+		"French fries are covered in tomato ketchup.",
+		"French fries are dipped in tomato ketchup."
+	],
+	"tomato#seeds": [
+		"A tomato contains seeds.",
+		"Tomato seeds can be eaten."
+	],
+	"seeds#tomato": [
+		"The seeds grow into a tomato.",
+		"The seeds produce a tomato."
+	],
+	"french fries#seeds": [
+		"French fries are made from seeds.",
+		"French fries are made from potatoes."
+	],
+	"seeds#french fries": [
+		"Seeds are inside french fries.",
+		"Seeds are in french fries."
+	],
+	"stylist#gel": [
+		"A stylist uses gel to style hair.",
+		"Gel is used by stylists to style hair."
+	],
+	"gel#stylist": [
+		"A stylist uses gel to style hair.",
+		"Gel is used to style hair."
+	],
+	"hair#gel": [
+		"Hair is styled with gel.",
+		"Gel is used to style hair."
+	],
+	"gel#hair": [
+		"Gel is used to style hair.",
+		"Gel coats the hair."
+	],
+	"landscaper#fertilizer": [
+		"A landscaper uses fertilizer to help plants grow.",
+		"A landscaper applies fertilizer to help plants grow."
+	],
+	"fertilizer#landscaper": [
+		"Fertilizer helps plants grow and landscaper plants the plants.",
+		"Fertilizer is used by landscapers to help plants grow."
+	],
+	"lawn#fertilizer": [
+		"Lawn needs fertilizer to grow.",
+		"Fertilizer makes the lawn grow."
+	],
+	"fertilizer#lawn": [
+		"Fertilizer makes the lawn green.",
+		"Fertilizer makes the grass grow."
+	],
+	"divingboard#fins": [
+		"Divingboard is a platform that helps swimmers fins.",
+		"Fins help swimmers dive from a divingboard."
+	],
+	"fins#divingboard": [
+		"Divingboard helps fins swim better.",
+		"Divingboard serves as a platform for fins."
+	],
+	"diver#fins": [
+		"A diver uses fins to move through water.",
+		"Fins help a diver move through water."
+	],
+	"fins#diver": [
+		"Fins help a diver swim through the water.",
+		"Fins assist a diver swim through the water."
+	],
+	"launchpad#rotor": [
+		"A launchpad provides a platform for a rotor.",
+		"A launchpad is a necessary component for a rotor."
+	],
+	"rotor#launchpad": [
+		"The rotor provides lift for the launchpad.",
+		"The rotor lifts the launchpad."
+	],
+	"helicopter#rotor": [
+		"The rotor provides lift and thrust for the helicopter.",
+		"The rotor is what makes the helicopter fly."
+	],
+	"rotor#helicopter": [
+		"The rotor provides lift and power to the helicopter.",
+		"The rotor is the primary component of the helicopter."
+	],
+	"vineyard#aging": [
+		"A vineyard is where wine is made and aged.",
+		"A vineyard is the perfect place to make and age wine."
+	],
+	"aging#vineyard": [
+		"The longer a vineyard is aged, the better the wine.",
+		"The older a vineyard, the better the wine."
+	],
+	"wine#aging": [
+		"Wine improves with aging.",
+		"Wine matures with aging."
+	],
+	"aging#wine": [
+		"Aging improves the taste of wine.",
+		"Aging makes wine taste better."
+	],
+	"lawschool#experience": [
+		"A law degree requires experience.",
+		"A law degree can be supplemented with experience."
+	],
+	"experience#lawschool": [
+		"I will have an experience at law school.",
+		"I will attend law school."
+	],
+	"lawyer#experience": [
+		"A lawyer needs experience.",
+		"A lawyer needs to have experience."
+	],
+	"experience#lawyer": [
+		"Experience is a good lawyer.",
+		"Experience is necessary for a lawyer."
+	],
+	"brewing#brewer": [
+		"Brewing is the process of making beer by a brewer.",
+		"Brewing is the action of making beer by a brewer."
+	],
+	"brewer#brewing": [
+		"Brewer makes brewing.",
+		"Brewer is responsible for brewing."
+	],
+	"beer#brewer": [
+		"Beer is brewed by a brewer.",
+		"Brewer makes beer."
+	],
+	"brewer#beer": [
+		"A brewer makes beer.",
+		"A brewer makes beer with hops."
+	],
+	"multiplication#mathematician": [
+		"Multiplication is a mathematical operation.",
+		"Multiplication is a tool used by mathematicians."
+	],
+	"mathematician#multiplication": [
+		"Mathematician invented multiplication.",
+		"Mathematician discovered multiplication."
+	],
+	"product#mathematician": [
+		"A mathematician creates a product.",
+		"A mathematician produces a product."
+	],
+	"mathematician#product": [
+		"A mathematician is the inventor of the product.",
+		"A mathematician discovered the product."
+	],
+	"antenna#radiation": [
+		"Radiation is emitted from the antenna.",
+		"Radiation is transmitted from the antenna."
+	],
+	"radiation#antenna": [
+		"Radiation emitted by the antenna.",
+		"Radiation is transmitted by the antenna."
+	],
+	"signal#radiation": [
+		"Signal is a type of radiation.",
+		"Signal is a kind of radiation."
+	],
+	"radiation#signal": [
+		"Radiation is emitted by a signal.",
+		"Radiation is a type of signal."
+	],
+	"nose#snot": [
+		"Nose secretes snot.",
+		"Nose is the origin of snot."
+	],
+	"snot#nose": [
+		"Snot is produced in the nose.",
+		"Snot is made in the nose."
+	],
+	"scent#snot": [
+		"Scent is emitted by snot.",
+		"Scent is released by snot."
+	],
+	"snot#scent": [
+		"Snot gives scent.",
+		"Snot contains scent."
+	],
+	"birthmark#strech mark": [
+		"A birthmark is a mark that is present at birth.",
+		"A birthmark is a permanent mark.",
+		"A birthmark is a blemish.",
+		"A birthmark is an abnormal pigmentation.",
+		"A stretch mark is a mark that is present after"
+	],
+	"strech mark#birthmark": [
+		"A strech mark is a birthmark.",
+		"A strech mark is a post-birthmark."
+	],
+	"birthmark#laser": [
+		"Birthmarks can be removed with lasers.",
+		"Birthmarks can be removed with a laser."
+	],
+	"laser#birthmark": [
+		"Laser can remove birthmarks.",
+		"Laser can treat birthmarks."
+	],
+	"skin#strech mark": [
+		"Skin stretches and leaves stretch marks.",
+		"Skin can stretch and leave stretch marks."
+	],
+	"strech mark#skin": [
+		"Stretch marks are caused by skin stretching.",
+		"Stretch marks are caused by skin over-stretching."
+	],
+	"skin#laser": [
+		"Lasers can be used to treat skin conditions.",
+		"Lasers can be used to improve skin appearance."
+	],
+	"laser#skin": [
+		"Laser treatment removes skin lesions.",
+		"Laser treatment destroys skin cells."
+	],
+	"strech mark#laser": [
+		"A laser can help reduce the appearance of stretch marks.",
+		"A laser can help reduce the visibility of stretch marks."
+	],
+	"laser#strech mark": [
+		"A laser can help reduce the appearance of stretch marks.",
+		"A laser can help reduce the visibility of stretch marks."
+	],
+	"painting#tear": [
+		"Paintings can be tears.",
+		"Painters often cry while painting."
+	],
+	"tear#painting": [
+		"Tears can damage paintings.",
+		"Tears can ruin paintings."
+	],
+	"painting#eraser": [
+		"A painting can be erased with an eraser.",
+		"A painting can be removed with an eraser."
+	],
+	"eraser#painting": [
+		"An eraser can erase a painting.",
+		"An eraser can remove a painting."
+	],
+	"canvas#tear": [
+		"A canvas is used to paint on, and if it tears, the painting is ruined.",
+		"A canvas can be used to paint on, but if it tears, the painting is ruined."
+	],
+	"tear#canvas": [
+		"A tear on the canvas",
+		"A tear in the canvas"
+	],
+	"canvas#eraser": [
+		"A canvas can be erased with an eraser.",
+		"A canvas can be erased with a cloth.",
+		"A canvas can be erased with a finger."
+	],
+	"eraser#canvas": [
+		"An eraser can erase part of the canvas.",
+		"An eraser can remove marks from a canvas."
+	],
+	"tear#eraser": [
+		"Tears can erase marks from paper.",
+		"Tears can remove marks from paper."
+	],
+	"eraser#tear": [
+		"An eraser can remove tears.",
+		"An eraser can erase tears."
+	],
+	"reservoir#scum": [
+		"The reservoir stores the scum.",
+		"The reservoir accumulates the scum."
+	],
+	"scum#reservoir": [
+		"The scum collects on the surface of the reservoir.",
+		"The scum floats on the surface of the reservoir."
+	],
+	"water#scum": [
+		"Water is a good solvent for scum.",
+		"Water dissolves scum."
+	],
+	"scum#water": [
+		"Scum is an accumulation of impurities on the surface of water.",
+		"Impurities accumulate on the surface of water to form scum."
+	],
+	"pen#mud": [
+		"A pen writes on mud.",
+		"A pen leaves a mark on mud."
+	],
+	"mud#pen": [
+		"Mud can be used to write with a pen.",
+		"Mud is not a good writing material."
+	],
+	"pig#mud": [
+		"Pigs love to roll in mud.",
+		"Pigs get dirty when they roll in mud."
+	],
+	"mud#pig": [
+		"Pig wallows in mud.",
+		"Mud is a favorite pastime of pigs."
+	],
+	"typewriter#poet": [
+		"A typewriter is used by a poet.",
+		"A typewriter is used to produce poems."
+	],
+	"poet#typewriter": [
+		"A poet types on a typewriter.",
+		"A poet composes on a typewriter."
+	],
+	"poetry#poet": [
+		"Poetry is created by a poet.",
+		"Poetry is written by a poet."
+	],
+	"poet#poetry": [
+		"A poet writes poetry.",
+		"Poetry is written by poets."
+	],
+	"saxophone#musician": [
+		"A saxophone is played by a musician.",
+		"A saxophone is an instrument that a musician can play."
+	],
+	"musician#saxophone": [
+		"A musician plays the saxophone.",
+		"A musician uses the saxophone."
+	],
+	"jazz#musician": [
+		"Jazz is the name of the music genre, and musicians play jazz music.",
+		"Jazz is the name of the music genre, and musicians create jazz music."
+	],
+	"musician#jazz": [
+		"A musician can play jazz.",
+		"A musician is skilled in playing jazz."
+	],
+	"incentive#dealership": [
+		"A dealership offers incentives to customers.",
+		"A dealership offers discounts to customers who buy cars."
+	],
+	"dealership#incentive": [
+		"A dealership offers an incentive.",
+		"A dealership provides an incentive."
+	],
+	"deal#dealership": [
+		"A deal is an agreement between two or more parties.",
+		"A dealership is a business that sells cars or other products."
+	],
+	"dealership#deal": [
+		"The dealership sells the deal.",
+		"The dealership is where the deal is made."
+	],
+	"sugar#coffeehouse": [
+		"Sugar is an ingredient in coffee.",
+		"Sugar is an additive to coffee."
+	],
+	"coffeehouse#sugar": [
+		"Sugar is added to coffee at a coffeehouse.",
+		"Sugar is an ingredient in coffee at a coffeehouse."
+	],
+	"coffee#coffeehouse": [
+		"Coffee is sold at a coffeehouse.",
+		"Coffee is made at a coffeehouse.",
+		"Coffee is served at a coffeehouse."
+	],
+	"coffeehouse#coffee": [
+		"Coffeehouses serve coffee.",
+		"Coffeehouses are places where coffee is served."
+	],
+	"signal#copper": [
+		"Copper transmits the signal.",
+		"Copper wires carry the signal."
+	],
+	"copper#signal": [
+		"Copper wires are used to transmit signals.",
+		"Copper wires are used to send signals."
+	],
+	"wire#copper": [
+		"A wire is made of copper.",
+		"Copper is a type of wire."
+	],
+	"copper#wire": [
+		"Copper is the material for wires.",
+		"Copper is often used for wiring."
+	],
+	"train#steel": [
+		"Trains are made of steel.",
+		"Steel is the main component of a train."
+	],
+	"steel#train": [
+		"Steel is used to make the train.",
+		"Steel is the main material used to make the train."
+	],
+	"track#steel": [
+		"Steel is used to make tracks.",
+		"Tracks are made of steel."
+	],
+	"steel#track": [
+		"Steel is used to make tracks.",
+		"Tracks are often made of steel."
+	],
+	"cigarette#nicotine": [
+		"Nicotine is found in cigarettes.",
+		"Cigarettes contain nicotine."
+	],
+	"nicotine#cigarette": [
+		"Nicotine is found in cigarettes.",
+		"Cigarettes contain nicotine."
+	],
+	"butt#nicotine": [
+		"Nicotine is found in the butt of a cigarette.",
+		"Nicotine is found in the tobacco of a cigarette."
+	],
+	"nicotine#butt": [
+		"Nicotine is in the butt.",
+		"Nicotine is in the tobacco in the butt."
+	],
+	"watermelon#sugar": [
+		"Watermelon contains sugar.",
+		"Watermelon is a sweet fruit."
+	],
+	"sugar#watermelon": [
+		"Sugar is present in watermelon.",
+		"Sugar is in watermelon."
+	],
+	"rind#sugar": [
+		"The sugar is inside the rind.",
+		"The sugar is on the rind."
+	],
+	"sugar#rind": [
+		"Sugar is found in the rind.",
+		"Sugar is located in the rind."
+	],
+	"lightning#thunder": [
+		"When lightning flashes, thunder is heard soon afterwards.",
+		"When lightning flashes, thunder is heard a short time later."
+	],
+	"thunder#lightning": [
+		"Thunder is the sound of lightning.",
+		"Lightning is the light of thunder."
+	],
+	"sky#thunder": [
+		"Thunder comes from the sky.",
+		"Thunder is a sound that comes from the sky."
+	],
+	"thunder#sky": [
+		"Thunder is the sound of lightning in the sky.",
+		"Thunder comes from the sky."
+	],
+	"movie#sound": [
+		"A movie has sound.",
+		"Sound is necessary for a movie."
+	],
+	"sound#movie": [
+		"Sound is used to create movies.",
+		"Sound is captured by movies."
+	],
+	"screen#sound": [
+		"Screen reflects sound.",
+		"Screen amplifies sound."
+	],
+	"sound#screen": [
+		"Sound creates vibrations on the screen.",
+		"Sound is projected on the screen."
+	],
+	"traveler#track": [
+		"The traveler is on the track.",
+		"The traveler follows the track."
+	],
+	"track#traveler": [
+		"A track is a path for a traveler.",
+		"A track is a route for a traveler.",
+		"A track is a course for a traveler."
+	],
+	"destination#track": [
+		"The destination is the end of the track.",
+		"The destination is the final stop on the track."
+	],
+	"track#destination": [
+		"The train track leads to the destination.",
+		"The train track arrives at the destination."
+	],
+	"basketball#court": [
+		"A basketball is played on a court.",
+		"A basketball is played in a court."
+	],
+	"court#basketball": [
+		"Court is the playing field for basketball.",
+		"Court is the location where basketball is played."
+	],
+	"hoop#court": [
+		"A hoop is played on a court.",
+		"A hoop is used in a game played on a court."
+	],
+	"court#hoop": [
+		"A court is the playing surface for a game of hoops.",
+		"A hoop is the object around which a ball is thrown in a game of hoops."
+	],
+	"spark#wood": [
+		"A spark can set wood on fire.",
+		"A spark ignites wood."
+	],
+	"wood#spark": [
+		"A spark can start a fire in wood.",
+		"A spark can ignite wood."
+	],
+	"fire#wood": [
+		"Fire needs wood to burn.",
+		"Wood is necessary for a fire to burn."
+	],
+	"wood#fire": [
+		"Wood is combustible and produces fire.",
+		"Wood is a good source of fuel for fire."
+	],
+	"kitten#rat": [
+		"A kitten is a small rodent.",
+		"A rat is a small predatory cat."
+	],
+	"rat#kitten": [
+		"A rat is a predator of a kitten.",
+		"A rat can eat a kitten."
+	],
+	"cat#rat": [
+		"A cat hunts and eats rats.",
+		"A cat preys on rats."
+	],
+	"rat#cat": [
+		"Rats are preyed on by cats.",
+		"Rats are hunted by cats."
+	],
+	"forewarning#heart attack": [
+		"Forewarning may give someone a heart attack.",
+		"Forewarning may be a predictor of heart attack."
+	],
+	"heart attack#forewarning": [
+		"A heart attack is preceded by a forewarning.",
+		"A heart attack has a forewarning."
+	],
+	"surprise#heart attack": [
+		"A heart attack can be a surprise.",
+		"A heart attack can be a shocking experience."
+	],
+	"heart attack#surprise": [
+		"A heart attack is a form of surprise.",
+		"A heart attack is an unexpected event."
+	],
+	"immunization#hospitalization": [
+		"Immunization protects from hospitalization.",
+		"Immunization prevents hospitalization."
+	],
+	"hospitalization#immunization": [
+		"Hospitalization protects from immunization.",
+		"Immunization protects from hospitalization."
+	],
+	"disease#hospitalization": [
+		"A disease can lead to hospitalization.",
+		"Hospitalization can help to cure a disease."
+	],
+	"hospitalization#disease": [
+		"Hospitalization is a common treatment for diseases.",
+		"Hospitalization is the best way to treat diseases."
+	],
+	"polygraph#pulse": [
+		"A polygraph measures pulse.",
+		"A polygraph detects pulse."
+	],
+	"pulse#polygraph": [
+		"A polygraph records pulse.",
+		"A polygraph measures pulse."
+	],
+	"honesty#pulse": [
+		"Honesty is the lifeblood of society.",
+		"Honesty is the lifeblood of relationships."
+	],
+	"pulse#honesty": [
+		"A pulse reveals honesty.",
+		"A pulse is an indicator of honesty."
+	],
+	"thermometer#mercury": [
+		"The thermometer uses mercury to measure temperature.",
+		"Mercury is used in thermometers to measure temperature."
+	],
+	"mercury#thermometer": [
+		"Mercury is used to measure temperature in a thermometer.",
+		"Mercury is a liquid that is used to measure temperature in a thermometer."
+	],
+	"temperature#mercury": [
+		"The higher the temperature, the higher the mercury.",
+		"The mercury level increases with the temperature."
+	],
+	"mercury#temperature": [
+		"Mercury expands with rising temperature.",
+		"Mercury contracts with falling temperature."
+	],
+	"thoughts#brain": [
+		"Thoughts originate from the brain.",
+		"Thoughts are produced by the brain."
+	],
+	"brain#thoughts": [
+		"The brain processes thoughts.",
+		"Thoughts originate in the brain."
+	],
+	"astronaut#space": [
+		"An astronaut is someone who travels and works in space.",
+		"An astronaut is someone who is skilled in space travel."
+	],
+	"space#astronaut": [
+		"An astronaut explores space.",
+		"An astronaut occupies space."
+	],
+	"astronaut#stars": [
+		"An astronaut is looking at the stars.",
+		"An astronaut sees the stars."
+	],
+	"stars#astronaut": [
+		"A star provides light for an astronaut.",
+		"A star is a heavenly body that provides light for an astronaut."
+	],
+	"space#stars": [
+		"Space is filled with stars.",
+		"Space is lit by stars."
+	],
+	"stars#space": [
+		"Stars are in space.",
+		"Space surrounds the stars."
+	],
+	"thoughts#neurons": [
+		"Thoughts are created by neurons.",
+		"Thoughts are produced by neurons."
+	],
+	"neurons#thoughts": [
+		"Neurons transmit thoughts.",
+		"Neurons are responsible for thoughts."
+	],
+	"brain#neurons": [
+		"Brain cells are neurons.",
+		"Brain cells are the basic unit of the nervous system."
+	],
+	"neurons#brain": [
+		"Neurons are the building blocks of the brain.",
+		"The brain is made up of neurons."
+	],
+	"water#pressure": [
+		"The more pressure on water, the more it squirts out.",
+		"The more pressure on water, the faster it comes out."
+	],
+	"pressure#water": [
+		"The pressure of the water affects how much water comes out the pipe.",
+		"The pressure of the water affects how fast the water comes out the pipe."
+	],
+	"heat#temperature": [
+		"Heat is the cause of temperature change.",
+		"Heat makes the temperature change."
+	],
+	"temperature#heat": [
+		"Temperature is the measure of heat.",
+		"Temperature is the amount of heat."
+	],
+	"heat#kettle": [
+		"Heat boils the water in the kettle.",
+		"Heat is needed to boil the water in the kettle."
+	],
+	"kettle#heat": [
+		"The kettle produces heat.",
+		"The kettle boils water by heating it."
+	],
+	"heat#iron": [
+		"Heat makes the iron red-hot.",
+		"Heat makes the iron hotter."
+	],
+	"iron#heat": [
+		"Iron expands when heated.",
+		"Iron contracts when heated."
+	],
+	"heat#sun": [
+		"Heat comes from the sun.",
+		"Heat is created by the sun."
+	],
+	"sun#heat": [
+		"The sun emits heat.",
+		"The sun gives off heat."
+	],
+	"temperature#kettle": [
+		"The kettle boils the water at a certain temperature.",
+		"The kettle boils the water to a certain temperature."
+	],
+	"kettle#temperature": [
+		"The kettle will boil water at a certain temperature.",
+		"The kettle is able to boil water at a certain temperature."
+	],
+	"temperature#iron": [
+		"The higher the temperature, the more the iron expands.",
+		"The higher the temperature, the more the iron contracts."
+	],
+	"iron#temperature": [
+		"Iron contracts with a decrease in temperature.",
+		"Iron expands with an increase in temperature."
+	],
+	"temperature#sun": [
+		"The temperature of an object is affected by the amount of sunlight it receives",
+		"The temperature of an object is affected by how close it is to the sun."
+	],
+	"sun#temperature": [
+		"The sun is the main source of Earth's temperature.",
+		"The sun affects the Earth's temperature."
+	],
+	"kettle#iron": [
+		"The kettle contains the iron.",
+		"The kettle is heated by the iron."
+	],
+	"iron#kettle": [
+		"Iron is used to make kettles.",
+		"Kettles are made of iron."
+	],
+	"kettle#sun": [
+		"The sun boils the water in the kettle.",
+		"The sun heats up the water in the kettle."
+	],
+	"sun#kettle": [
+		"The sun heats the kettle.",
+		"The sun boils the water in the kettle."
+	],
+	"iron#sun": [
+		"Iron rusts in the sun.",
+		"Iron corrodes in the sun."
+	],
+	"sun#iron": [
+		"The sun's intense heat can turn iron into a liquid.",
+		"The sun can melt iron."
+	],
+	"water#bucket": [
+		"Water fills the bucket",
+		"The bucket is filled with water."
+	],
+	"bucket#water": [
+		"A bucket can hold water.",
+		"A bucket can be filled with water."
+	],
+	"water#pipe": [
+		"Water flows through the pipe",
+		"Water passes through the pipe"
+	],
+	"pipe#water": [
+		"A pipe carries water.",
+		"A pipe is filled with water."
+	],
+	"water#rain": [
+		"Water is the main ingredient of rain.",
+		"Water is a necessary component of rain."
+	],
+	"rain#water": [
+		"Rain is water that falls from the sky.",
+		"Rain is a form of precipitation."
+	],
+	"pressure#bucket": [
+		"The pressure of the water in the bucket is greater than the atmospheric pressure.",
+		"The atmospheric pressure pushes down on the water in the bucket."
+	],
+	"bucket#pressure": [
+		"The pressure of the water in the bucket pushes the water out.",
+		"The water in the bucket creates pressure on the bottom of the bucket."
+	],
+	"pressure#pipe": [
+		"Pressure can cause water to flow through the pipe more quickly.",
+		"Pressure can push water through the pipe."
+	],
+	"pipe#pressure": [
+		"The pressure of the water in the pipe creates the force that pushes the water through the pipe.",
+		"The pressure of the water in the pipe is what creates the force that pushes the water through the pipe."
+	],
+	"pressure#rain": [
+		"The more pressure there is, the more rain will fall.",
+		"The more pressure there is, the more likely it is for rain to fall."
+	],
+	"rain#pressure": [
+		"Rain is produced by atmospheric pressure.",
+		"Rain is the result of atmospheric pressure."
+	],
+	"bucket#pipe": [
+		"A bucket can be put on the pipe",
+		"A bucket can be attached to the pipe"
+	],
+	"pipe#bucket": [
+		"The pipe transfers the water from the bucket.",
+		"The pipe fills the bucket with water."
+	],
+	"bucket#rain": [
+		"A bucket can collect rain.",
+		"A bucket can be filled with rain."
+	],
+	"rain#bucket": [
+		"A bucket catches the rain.",
+		"A bucket collects the rain."
+	],
+	"pipe#rain": [
+		"A pipe collects rain.",
+		"A pipe funnels rain."
+	],
+	"rain#pipe": [
+		"Water flows through the pipe",
+		"Water passes through the pipe"
+	],
+	"waves#water": [
+		"Waves are created by the movement of water.",
+		"Waves are made by the movement of water.",
+		"Waves are a result of the movement of water."
+	],
+	"water#waves": [
+		"Waves are created by the movement of water.",
+		"Waves are created by the disturbance of water."
+	],
+	"sounds#air": [
+		"Sound waves are created by the vibration of air molecules.",
+		"Sound waves are transmitted through the air.",
+		"Sound waves travel through the air."
+	],
+	"air#sounds": [
+		"Sounds travel through the air.",
+		"Sounds are propagated through the air."
+	],
+	"sounds#earplugs": [
+		"Earplugs block sound.",
+		"Earplugs muffle sound."
+	],
+	"earplugs#sounds": [
+		"Earplugs block sounds.",
+		"Earplugs reduce sounds."
+	],
+	"sounds#ear": [
+		"Sounds are heard by the ear.",
+		"Sounds travel through the air and are heard by the ear."
+	],
+	"ear#sounds": [
+		"Ear hears sounds.",
+		"Ear collects sounds."
+	],
+	"air#earplugs": [
+		"Earplugs block air from entering the ear canal.",
+		"Earplugs prevent air from entering the ear canal."
+	],
+	"earplugs#air": [
+		"Earplugs block air.",
+		"Earplugs prevent air from entering the ear canal."
+	],
+	"air#ear": [
+		"Air enters the ear.",
+		"Air is transmitted to the ear."
+	],
+	"ear#air": [
+		"Sound waves travel through the air and are heard by the ear.",
+		"Sound waves vibrate through the air and are heard by the ear."
+	],
+	"earplugs#ear": [
+		"Earplugs protect the ear.",
+		"Earplugs keep the ear from getting wet.",
+		"Earplugs keep the ear from getting cold."
+	],
+	"ear#earplugs": [
+		"Earplugs protect the ear from noise.",
+		"Earplugs keep the ear from hearing noise."
+	],
+	"waves#shore": [
+		"Waves crash against the shore.",
+		"Waves flow towards the shore."
+	],
+	"shore#waves": [
+		"Waves crash against the shore.",
+		"Waves flow onto the shore."
+	],
+	"waves#breakwater": [
+		"Waves crash against the breakwater.",
+		"Waves break against the breakwater."
+	],
+	"breakwater#waves": [
+		"Waves crash against the breakwater.",
+		"Waves are dissipated by the breakwater."
+	],
+	"water#shore": [
+		"Water drains to the shore.",
+		"Water flows to the shore."
+	],
+	"shore#water": [
+		"The shore is the interface between land and water.",
+		"The shore is the boundary between land and water."
+	],
+	"water#breakwater": [
+		"A breakwater protects the harbor from the waves.",
+		"A breakwater dissipates the wave energy."
+	],
+	"breakwater#water": [
+		"A breakwater dissipates the force of waves.",
+		"A breakwater protects the shore from the waves."
+	],
+	"shore#breakwater": [
+		"A breakwater protects the shore.",
+		"A breakwater protects the coastline."
+	],
+	"breakwater#shore": [
+		"A breakwater protects the shore from waves.",
+		"A breakwater is a barrier to waves."
+	],
+	"goal#soccer": [
+		"A goal is scored in soccer.",
+		"A goal is the object of a soccer game."
+	],
+	"soccer#goal": [
+		"A goal is scored by kicking a soccer ball into it.",
+		"A goal is a structure in soccer that players try to kick the ball into."
+	],
+	"basket#basketball": [
+		"A basket is where basketball is played.",
+		"A basket is used to play basketball."
+	],
+	"basketball#basket": [
+		"A basketball is inserted into a basket.",
+		"A basketball is thrown into a basket."
+	],
+	"basket#hardwood": [
+		"The hardwood is the material of the basket.",
+		"The hardwood is the base of the basket."
+	],
+	"hardwood#basket": [
+		"Hardwood is used to make baskets.",
+		"Hardwood is a material that is often used to make baskets."
+	],
+	"basket#hands": [
+		"A basket is held in hands.",
+		"A basket is carried in hands."
+	],
+	"hands#basket": [
+		"The basket is held in the hands.",
+		"The basket is carried in the hands."
+	],
+	"basketball#hardwood": [
+		"A basketball bounces on a hardwood surface.",
+		"A basketball is played on a hardwood surface."
+	],
+	"hardwood#basketball": [
+		"Hardwood is the surface of a basketball court.",
+		"Hardwood is the material of a basketball court."
+	],
+	"basketball#hands": [
+		"Basketball is held in hands.",
+		"Basketball is grasped by hands."
+	],
+	"hands#basketball": [
+		"The hands hold the basketball.",
+		"The hands control the basketball."
+	],
+	"hardwood#hands": [
+		"Hardwood floors are difficult to clean with hands.",
+		"Hardwood floors are difficult to clean without hands."
+	],
+	"hands#hardwood": [
+		"Hands can leave marks on hardwood.",
+		"Hands can damage hardwood."
+	],
+	"goal#grass": [
+		"A goal is a structure on the grass.",
+		"A goal is a target on the grass."
+	],
+	"grass#goal": [
+		"Grass is in front of the goal.",
+		"Grass is the main part of the goal."
+	],
+	"goal#feet": [
+		"The goal is the object at the end of the feet.",
+		"The goal is the target of the feet."
+	],
+	"feet#goal": [
+		"Feet are used to score goals.",
+		"Feet are used to propel the ball into the goal."
+	],
+	"soccer#grass": [
+		"Soccer is played on grass.",
+		"Soccer is played on a green field."
+	],
+	"grass#soccer": [
+		"Grass is the playing surface of soccer.",
+		"Grass is the natural surface for playing soccer."
+	],
+	"soccer#feet": [
+		"Soccer is played with feet.",
+		"Soccer is a game that is played with feet."
+	],
+	"feet#soccer": [
+		"Feet are used for playing soccer.",
+		"Feet are used to play soccer."
+	],
+	"grass#feet": [
+		"Grass grows in between people's feet.",
+		"Grass grows where people walk."
+	],
+	"feet#grass": [
+		"Feet sink into the grass."
+	],
+	"seeds#fruit": [
+		"The seed is the beginning of the fruit.",
+		"The seed is the origin of the fruit."
+	],
+	"fruit#seeds": [
+		"Fruit contains seeds.",
+		"Fruit is the result of the fertilization of the seeds."
+	],
+	"ideas#product": [
+		"A good product is the result of good ideas.",
+		"A good product is the realization of good ideas."
+	],
+	"product#ideas": [
+		"A product is an embodiment of an idea.",
+		"A product is a realization of an idea."
+	],
+	"ideas#success": [
+		"Ideas are the foundation of success.",
+		"Ideas are the key to success."
+	],
+	"success#ideas": [
+		"Success comes from good ideas.",
+		"Successful people have great ideas."
+	],
+	"product#success": [
+		"A successful product is one that is well-received by consumers.",
+		"A successful product is one that is profitable."
+	],
+	"success#product": [
+		"Success is a result of a good product.",
+		"Success is a good product."
+	],
+	"seeds#bloom": [
+		"Seeds grow into a bloom.",
+		"Seeds give rise to blooms."
+	],
+	"bloom#seeds": [
+		"The seeds produce the blooms.",
+		"The seeds are necessary for the blooms to grow."
+	],
+	"fruit#bloom": [
+		"Fruit is the result of a bloom.",
+		"Fruit is the product of a bloom."
+	],
+	"bloom#fruit": [
+		"A bloom is the flower of a fruit tree.",
+		"A bloom precedes fruit."
+	],
+	"morning#breakfast": [
+		"Breakfast is eaten in the morning.",
+		"Breakfast is the first meal of the day."
+	],
+	"breakfast#morning": [
+		"Breakfast is eaten in the morning.",
+		"Breakfast is the first meal of the day."
+	],
+	"evening#dinner": [
+		"Evening is the time before dinner.",
+		"Evening is the time of day after lunch and before dinner."
+	],
+	"dinner#evening": [
+		"Dinner is the evening meal.",
+		"Dinner is eaten in the evening."
+	],
+	"evening#end": [
+		"Evening is the end of the day.",
+		"Evening is the last part of the day."
+	],
+	"end#evening": [
+		"The end of the day is in the evening.",
+		"The end of the day is the evening."
+	],
+	"evening#wine": [
+		"Evening is the time of day when wine is drunk.",
+		"Evening is the time of day when wine is served."
+	],
+	"wine#evening": [
+		"Wine is served in the evening.",
+		"Wine is consumed in the evening."
+	],
+	"dinner#end": [
+		"Dinner is the end of the day.",
+		"Dinner is the final meal of the day."
+	],
+	"end#dinner": [
+		"The end of the dinner is the end of the meal.",
+		"The end of the dinner is the last course of the meal."
+	],
+	"dinner#wine": [
+		"Dinner is eaten with wine.",
+		"Wine is served with dinner."
+	],
+	"wine#dinner": [
+		"Wine is served with dinner.",
+		"Wine is a beverage that is served with dinner."
+	],
+	"end#wine": [
+		"The end of the wine bottle is the top.",
+		"The end of the wine bottle is the bottom."
+	],
+	"wine#end": [
+		"Wine is an alcoholic drink that is usually served at the end of a meal.",
+		"Wine is an after dinner drink."
+	],
+	"morning#start": [
+		"Morning is the start of the day.",
+		"Morning is the beginning of the day."
+	],
+	"start#morning": [
+		"A morning begins with a start.",
+		"The start of morning is the beginning."
+	],
+	"morning#coffee": [
+		"Morning is the time of day when coffee is typically consumed.",
+		"Morning is a time of day when coffee can be consumed."
+	],
+	"coffee#morning": [
+		"Coffee is a morning drink.",
+		"Coffee is often consumed in the morning."
+	],
+	"breakfast#start": [
+		"Breakfast starts the day.",
+		"Breakfast is the first meal of the day."
+	],
+	"start#breakfast": [
+		"Breakfast starts the day.",
+		"Breakfast is the first meal of the day."
+	],
+	"breakfast#coffee": [
+		"Breakfast is a meal that generally includes coffee.",
+		"Coffee is a beverage that is often served with breakfast."
+	],
+	"coffee#breakfast": [
+		"Coffee is a breakfast drink.",
+		"Coffee is often consumed at breakfast."
+	],
+	"start#coffee": [
+		"The start of the day is often associated with coffee.",
+		"Coffee is a good way to start the day."
+	],
+	"coffee#start": [
+		"Coffee starts the day.",
+		"Coffee is the first thing many people drink in the morning."
+	],
+	"water#water tower": [
+		"A water tower stores water.",
+		"A water tower is a high structure that stores water."
+	],
+	"water tower#water": [
+		"The water tower stores water.",
+		"The water tower provides a reservoir for water."
+	],
+	"heat#burner": [
+		"Heat is produced by the burner.",
+		"Heat is emitted by the burner."
+	],
+	"burner#heat": [
+		"The burner creates heat.",
+		"The burner produces heat."
+	],
+	"water#hydrodynamics": [
+		"Hydrodynamics is the study of fluids in motion.",
+		"Water is a fluid and hydrodynamics is the study of it."
+	],
+	"hydrodynamics#water": [
+		"Hydrodynamics is the study of water movement.",
+		"Hydrodynamics is the science of water movement."
+	],
+	"heat#thermodynamics": [
+		"Heat is a product of thermodynamics.",
+		"Heat is a form of energy.",
+		"Heat is the transfer of energy."
+	],
+	"thermodynamics#heat": [
+		"Thermodynamics is the study of heat.",
+		"Thermodynamics is the application of heat."
+	],
+	"temperature#burner": [
+		"The temperature of the burner affects the temperature of the object.",
+		"The temperature of the burner determines the temperature of the object."
+	],
+	"burner#temperature": [
+		"The burner produces the temperature.",
+		"The burner creates the temperature."
+	],
+	"temperature#thermodynamics": [
+		"Temperature is a measure of thermodynamics.",
+		"Temperature is a property of thermodynamics."
+	],
+	"thermodynamics#temperature": [
+		"Thermodynamics is the study of temperature.",
+		"Temperature is a measure of thermodynamics."
+	],
+	"burner#kettle": [
+		"The burner heats the kettle.",
+		"The burner provides heat to the kettle."
+	],
+	"kettle#burner": [
+		"The kettle is heated by the burner.",
+		"The burner heats the kettle."
+	],
+	"burner#thermodynamics": [
+		"The burner produces heat.",
+		"The burner supplies heat."
+	],
+	"thermodynamics#burner": [
+		"The burner creates heat energy which is used in thermodynamics.",
+		"The burner is used in thermodynamics to create heat energy."
+	],
+	"kettle#thermodynamics": [
+		"The kettle boils the water and the water changes state from liquid to gas due to thermodynamics.",
+		"The kettle is a tool that uses thermodynamics to change the state of water."
+	],
+	"thermodynamics#kettle": [
+		"Heat from the kettle is transferred to the water, making it boil",
+		"The kettle is used to boil water"
+	],
+	"pressure#water tower": [
+		"The pressure of the water tower is the pressure of the water.",
+		"The pressure of the water tower is the pressure at which the water is stored."
+	],
+	"water tower#pressure": [
+		"A water tower creates pressure.",
+		"A water tower increases the water pressure."
+	],
+	"pressure#hydrodynamics": [
+		"Pressure is a key factor in hydrodynamics.",
+		"Pressure affects hydrodynamics."
+	],
+	"hydrodynamics#pressure": [
+		"Hydrodynamics is the study of fluids in motion.",
+		"Pressure is a measure of the force per unit area."
+	],
+	"water tower#bucket": [
+		"A bucket is filled with water from the water tower",
+		"A bucket is filled with water from the water tower by a pump."
+	],
+	"bucket#water tower": [
+		"A bucket can be filled with water from the water tower.",
+		"A bucket can be used to get water from the water tower."
+	],
+	"water tower#hydrodynamics": [
+		"Water towers store water and use hydrodynamics to pump the water to a high elevation."
+	],
+	"hydrodynamics#water tower": [],
+	"bucket#hydrodynamics": [
+		"A bucket can be filled with water to study hydrodynamics.",
+		"A bucket is a good tool for studying hydrodynamics."
+	],
+	"hydrodynamics#bucket": [],
+	"sounds#wall": [
+		"Sounds bounce off of walls."
+	],
+	"wall#sounds": [
+		"Wall reflects sounds.",
+		"Wall amplifies sounds."
+	],
+	"sounds#insulation": [
+		"Insulation absorbs sounds."
+	],
+	"insulation#sounds": [],
+	"wall#air": [],
+	"air#wall": [],
+	"wall#insulation": [
+		"Wall is insulated by insulation.",
+		"Wall is covered by insulation."
+	],
+	"insulation#wall": [
+		"Insulation helps keep the wall warm.",
+		"Insulation prevents the wall from getting too warm."
+	],
+	"air#insulation": [
+		"Insulation prevents air from escaping.",
+		"Insulation keeps the air inside."
+	],
+	"insulation#air": [
+		"Insulation prevents air from entering or leaving.",
+		"Insulation helps to keep air from entering or leaving."
+	],
+	"solar system#sun": [
+		"The solar system orbits around the sun.",
+		"The solar system is revolving around the sun."
+	],
+	"sun#solar system": [
+		"The sun is the center of the solar system.",
+		"The sun is the biggest star in the solar system."
+	],
+	"atom#nucleus": [
+		"Atom is the smallest particle of an element that has the chemical properties of that element.",
+		"The nucleus is the center of the atom."
+	],
+	"nucleus#atom": [
+		"The nucleus is the heart of the atom.",
+		"The nucleus is the most important part of the atom."
+	],
+	"atom#electron": [
+		"Atom is the smallest particle of an element that has the chemical properties of the element.",
+		"An electron is a subatomic particle that orbits the nucleus of an atom."
+	],
+	"electron#atom": [
+		"Electrons orbit the nucleus of an atom."
+	],
+	"atom#electromagnetism": [
+		"Atom is affected by electromagnetism.",
+		"Atom is composed of electromagnetism."
+	],
+	"electromagnetism#atom": [
+		"Electromagnetism is the force that binds atoms together.",
+		"Electromagnetism is the force that holds atoms together."
+	],
+	"nucleus#electron": [
+		"The nucleus contains the electrons.",
+		"The electrons orbit around the nucleus."
+	],
+	"electron#nucleus": [
+		"An electron orbits the nucleus."
+	],
+	"nucleus#electromagnetism": [
+		"Electromagnetism affects the nucleus.",
+		"Electromagnetism surrounds the nucleus."
+	],
+	"electromagnetism#nucleus": [
+		"Electromagnetism is the force that attracts electrons and nuclei together."
+	],
+	"electron#electromagnetism": [
+		"Electromagnetism attracts electrons."
+	],
+	"electromagnetism#electron": [
+		"Electromagnetism attracts electrons."
+	],
+	"solar system#planet": [
+		"A solar system contains one or more planets.",
+		"Planets orbit around the sun in a solar system."
+	],
+	"planet#solar system": [
+		"A planet orbits around the sun.",
+		"A planet is a part of the solar system."
+	],
+	"solar system#gravity": [
+		"The gravity of the sun affects the planets in the solar system.",
+		"The gravity of the planets affects the sun in the solar system."
+	],
+	"gravity#solar system": [
+		"Gravity affects the solar system.",
+		"The gravity of the sun affects the planets in the solar system."
+	],
+	"sun#planet": [
+		"The sun is the source of light and heat for planets.",
+		"The sun is the biggest object in the solar system.",
+		"The sun is the center of the solar system."
+	],
+	"planet#sun": [
+		"A planet revolves around the sun.",
+		"A planet is much smaller than the sun."
+	],
+	"sun#gravity": [
+		"The sun produces gravity.",
+		"The sun creates gravity."
+	],
+	"gravity#sun": [
+		"The gravity of the sun affects the planets orbiting around it."
+	],
+	"planet#gravity": [
+		"A planet orbits around the sun due to gravity.",
+		"A planet revolves around the sun because of gravity."
+	],
+	"gravity#planet": [
+		"Gravity affects planets.",
+		"Gravity is what keeps planets in orbit."
+	],
+	"atom#charge": [
+		"Atom has a charge.",
+		"Atom has a positive charge.",
+		"Atom has a negative charge."
+	],
+	"charge#atom": [
+		"Charge is the force that attracts atoms together.",
+		"Charge is what makes atoms stick together."
+	],
+	"nucleus#charge": [
+		"The nucleus has a positive charge.",
+		"The nucleus has a negative charge."
+	],
+	"charge#nucleus": [
+		"Charge attracts the nucleus."
+	],
+	"electron#charge": [
+		"Electrons have a negative charge.",
+		"Electrons are negatively charged."
+	],
+	"charge#electron": [
+		"Charge is the property of an electron.",
+		"Charge is the amount of energy an electron has."
+	],
+	"electromagnetism#charge": [
+		"Electromagnetism is the force that attracts or repels charged particles.",
+		"Electromagnetism is the interaction between charged particles."
+	],
+	"charge#electromagnetism": [
+		"Charge creates electromagnetism.",
+		"Charge is the cause of electromagnetism."
+	],
+	"solar system#mass": [
+		"The mass of the solar system affects the orbits of the planets."
+	],
+	"mass#solar system": [
+		"The mass of an object affects the gravitational pull it has on objects in the solar system."
+	],
+	"sun#mass": [
+		"The sun has the mass of about 333,000 Earths.",
+		"The sun has the mass of about 333,000 planets."
+	],
+	"mass#sun": [],
+	"planet#mass": [
+		"A planet has mass.",
+		"A planet is a large object that has mass."
+	],
+	"mass#planet": [
+		"The mass of a planet affects its gravitational pull.",
+		"The mass of a planet determines its gravitational pull."
+	],
+	"gravity#mass": [
+		"Gravity is a force that is exerted by a mass.",
+		"Gravity is the result of the mass of an object."
+	],
+	"mass#gravity": [
+		"The more mass an object has, the more gravity it has."
+	],
+	"combustion#fire": [
+		"Combustion is the process that produces fire.",
+		"Combustion is what makes fire."
+	],
+	"fire#combustion": [
+		"Combustion is the process that produces fire.",
+		"Fire cannot exist without combustion."
+	],
+	"respiration#animal": [
+		"Respiration is the process that occurs in animals.",
+		"Respiration is the process that takes place in animals."
+	],
+	"animal#respiration": [
+		"Animals respire in order to obtain oxygen.",
+		"Animals breathe in order to obtain oxygen."
+	],
+	"respiration#food": [
+		"Respiration breaks down food molecules to release energy.",
+		"Respiration is necessary to break down food molecules to release energy."
+	],
+	"food#respiration": [
+		"Food is necessary for respiration."
+	],
+	"respiration#oxygen": [
+		"Oxygen is necessary for respiration.",
+		"Respiration requires oxygen."
+	],
+	"oxygen#respiration": [
+		"Oxygen is necessary for respiration.",
+		"Oxygen is a component of respiration."
+	],
+	"respiration#carbon dioxide": [
+		"Respiration releases carbon dioxide.",
+		"Carbon dioxide is a by-product of respiration."
+	],
+	"carbon dioxide#respiration": [
+		"Carbon dioxide is a by-product of respiration.",
+		"Carbon dioxide is necessary for respiration."
+	],
+	"animal#food": [
+		"Animals eat food.",
+		"Animals need food to survive."
+	],
+	"food#animal": [
+		"Food is what animals eat.",
+		"Animals eat food."
+	],
+	"animal#oxygen": [
+		"Animals breathe oxygen.",
+		"Animals need oxygen to survive."
+	],
+	"oxygen#animal": [
+		"Animals need oxygen to survive.",
+		"Animals breathe in oxygen."
+	],
+	"animal#carbon dioxide": [
+		"Animals breathe in carbon dioxide."
+	],
+	"carbon dioxide#animal": [
+		"Carbon dioxide is a gas that animals exhale.",
+		"Carbon dioxide is a gas that animals produce."
+	],
+	"food#oxygen": [
+		"The human body needs food to produce oxygen.",
+		"Eating food provides the body with oxygen."
+	],
+	"oxygen#food": [
+		"Oxygen is necessary for the body to digest food.",
+		"Oxygen is one of the elements of food."
+	],
+	"food#carbon dioxide": [
+		"Food produces carbon dioxide."
+	],
+	"carbon dioxide#food": [
+		"Carbon dioxide is a by-product of food.",
+		"Carbon dioxide is a waste product of food."
+	],
+	"sound#horn": [
+		"Sound waves are emitted by the horn.",
+		"Sound waves are amplified by the horn."
+	],
+	"horn#sound": [
+		"A horn emits sound.",
+		"A horn makes sound."
+	],
+	"light#lens": [
+		"A lens can focus light.",
+		"A lens can bend light."
+	],
+	"lens#light": [
+		"A lens can focus light.",
+		"A lens can bend light.",
+		"A lens can magnify light."
+	],
+	"oxygen#carbon dioxide": [
+		"Oxygen is used up by plants to create carbon dioxide.",
+		"Carbon dioxide is created when oxygen is used by plants."
+	],
+	"carbon dioxide#oxygen": [
+		"Carbon dioxide is produced when oxygen is used.",
+		"Carbon dioxide is a waste product of oxygen."
+	],
+	"combustion#fuel": [
+		"Combustion occurs when fuel is ignited.",
+		"Combustion is the process of burning fuel."
+	],
+	"fuel#combustion": [
+		"Fuel is burned in a combustion engine.",
+		"The combustion of fuel produces energy."
+	],
+	"slot machines#reels": [
+		"Slot machines have reels.",
+		"Slot machines have spinning reels."
+	],
+	"reels#slot machines": [
+		"Slot machines have reels.",
+		"Slot machines have one or more reels."
+	],
+	"combustion#oxygen": [
+		"Combustion needs oxygen.",
+		"Oxygen is necessary for combustion."
+	],
+	"oxygen#combustion": [
+		"Oxygen is necessary for combustion."
+	],
+	"bacteria#genes": [
+		"Bacteria transfer their genes to other bacteria.",
+		"Bacteria can exchange their genes with other bacteria."
+	],
+	"genes#bacteria": [
+		"Genes are found in bacteria.",
+		"Genes are located in bacteria."
+	],
+	"combustion#carbon dioxide": [
+		"Combustion produces carbon dioxide.",
+		"Carbon dioxide is a product of combustion."
+	],
+	"carbon dioxide#combustion": [
+		"Carbon dioxide is a by-product of combustion.",
+		"Carbon dioxide is a waste product of combustion."
+	],
+	"fire#fuel": [
+		"Fire needs fuel to burn."
+	],
+	"fuel#fire": [
+		"Fuel is needed to produce fire.",
+		"Fuel is necessary to create a fire."
+	],
+	"fire#oxygen": [
+		"Fire needs oxygen to burn.",
+		"Oxygen is necessary for fire to burn."
+	],
+	"oxygen#fire": [
+		"Oxygen is necessary for fire.",
+		"Oxygen fuels fire."
+	],
+	"fire#carbon dioxide": [
+		"Fire produces carbon dioxide.",
+		"Carbon dioxide is a waste product of fire."
+	],
+	"carbon dioxide#fire": [
+		"Carbon dioxide is a gas that is produced when coal, oil, or natural gas is burned."
+	],
+	"fuel#oxygen": [
+		"Fuel needs oxygen to burn.",
+		"Fuel is oxidized by oxygen."
+	],
+	"oxygen#fuel": [
+		"Oxygen is a fuel.",
+		"Oxygen is a component of fuel."
+	],
+	"fuel#carbon dioxide": [
+		"Fuel produces carbon dioxide.",
+		"Fuel is composed of carbon dioxide."
+	],
+	"carbon dioxide#fuel": [
+		"Carbon dioxide is a by-product of fuel combustion."
+	],
+	"projectile#trajectory": [
+		"A projectile is anything that is thrown or projected.",
+		"The trajectory is the path that the projectile follows."
+	],
+	"trajectory#projectile": [
+		"A projectile is anything that is thrown or projected.",
+		"A projectile follows a trajectory."
+	],
+	"planet#orbit": [
+		"A planet orbits around the sun.",
+		"A planet revolves around the sun."
+	],
+	"orbit#planet": [
+		"A planet orbits around the sun.",
+		"A planet revolves around the sun."
+	],
+	"planet#space": [
+		"A planet resides in space.",
+		"A planet occupies space."
+	],
+	"space#planet": [
+		"Space exists between planets.",
+		"Space is infinite, and planets are finite."
+	],
+	"orbit#sun": [
+		"The orbit of a planet around the sun.",
+		"The orbit of a planet is a path that it takes around the sun."
+	],
+	"sun#orbit": [
+		"The sun's orbit is elliptical.",
+		"The sun's orbit is not a perfect circle."
+	],
+	"orbit#space": [
+		"Orbit is a path that an object traces around a larger object in space.",
+		"Orbit is the path of an object around a larger object in space."
+	],
+	"space#orbit": [
+		"A space is the orbit of an object around a larger one.",
+		"A space is the area in which an object revolves around a larger one."
+	],
+	"orbit#gravity": [
+		"Orbit is affected by gravity.",
+		"Orbit is a result of gravity."
+	],
+	"gravity#orbit": [
+		"Gravity pulls an object towards the center of the orbit.",
+		"Gravity creates an orbit."
+	],
+	"sun#space": [
+		"The sun is in space.",
+		"The sun is located in space."
+	],
+	"space#sun": [
+		"Space is located around the sun.",
+		"Space is illuminated by the sun."
+	],
+	"space#gravity": [
+		"Gravity exists in space.",
+		"Gravity affects space."
+	],
+	"gravity#space": [
+		"Gravity exists in space.",
+		"Gravity is present in space."
+	],
+	"projectile#earth": [
+		"A projectile is affected by the earth's gravity.",
+		"A projectile is pulled towards the earth by gravity."
+	],
+	"earth#projectile": [
+		"A projectile is fired from the earth.",
+		"A projectile is propelled away from the earth."
+	],
+	"projectile#air": [
+		"A projectile fired in the air experiences air resistance.",
+		"A projectile in the air is slowed by air resistance."
+	],
+	"air#projectile": [],
+	"projectile#gravity": [
+		"A projectile is affected by gravity.",
+		"A projectile falls due to gravity."
+	],
+	"gravity#projectile": [
+		"Gravity affects the projectile's trajectory.",
+		"Gravity affects the projectile's speed."
+	],
+	"trajectory#earth": [
+		"A trajectory is the path of an object as it moves through space.",
+		"The trajectory of an object is determined by the Earth's gravity."
+	],
+	"earth#trajectory": [
+		"The trajectory of an object is determined by the earth's gravity.",
+		"The trajectory of an object is determined by the earth's force."
+	],
+	"trajectory#air": [
+		"A trajectory is the path of an object in the air.",
+		"A trajectory is determined by the air."
+	],
+	"air#trajectory": [
+		"Air resistance affects the trajectory of an object.",
+		"Air resistance determines the trajectory of an object."
+	],
+	"trajectory#gravity": [
+		"The trajectory of an object is determined by gravity.",
+		"The trajectory of an object is affected by gravity."
+	],
+	"gravity#trajectory": [
+		"Gravity affects the trajectory of an object.",
+		"The trajectory of an object is affected by gravity."
+	],
+	"earth#air": [
+		"Earth creates air.",
+		"Earth is the source of air."
+	],
+	"air#earth": [
+		"Air surrounds earth.",
+		"Air is above earth.",
+		"Air is below earth."
+	],
+	"earth#gravity": [
+		"Gravity is the force that attracts objects towards the center of the earth.",
+		"Gravity is the natural force that attracts objects towards the center of the earth."
+	],
+	"gravity#earth": [
+		"Gravity is the force that attracts objects towards the center of the Earth.",
+		"Gravity is the natural force that attracts objects towards the center of the Earth."
+	],
+	"air#gravity": [
+		"Air is affected by gravity.",
+		"Air is pulled down by gravity."
+	],
+	"gravity#air": [
+		"Gravity pulls air down.",
+		"Gravity affects air pressure."
+	],
+	"computer#memory": [
+		"A computer has a memory.",
+		"A computer stores data in its memory."
+	],
+	"memory#computer": [
+		"A computer stores memory.",
+		"Memory is stored on a computer."
+	],
+	"mind#muscles": [
+		"The mind controls the muscles."
+	],
+	"muscles#mind": [
+		"Muscles are controlled by the mind.",
+		"Muscles are moved by the mind."
+	],
+	"mind#senses": [
+		"The mind controls the senses.",
+		"The mind interprets the senses."
+	],
+	"senses#mind": [
+		"Senses input information to the mind.",
+		"The mind receives input from the senses."
+	],
+	"mind#mistake": [
+		"A mistake can be a result of the mind.",
+		"The mind can lead to mistakes."
+	],
+	"mistake#mind": [
+		"A mistake is a product of the mind.",
+		"A mistake is a reflection of the mind."
+	],
+	"memory#muscles": [
+		"Memory is stored in muscles.",
+		"Memory is encoded in muscles."
+	],
+	"muscles#memory": [
+		"Muscles store memory.",
+		"Muscles are necessary for storing memory."
+	],
+	"memory#senses": [
+		"Memory is based on the senses.",
+		"Memory is the result of the senses."
+	],
+	"senses#memory": [
+		"Sensory input is stored in short-term memory, which is then transferred to long-term memory.",
+		"Sensory input is stored in short-term memory, which can be recalled later."
+	],
+	"memory#mistake": [
+		"Memory is where we store our mistakes.",
+		"Memory is the ability to remember mistakes."
+	],
+	"mistake#memory": [],
+	"muscles#senses": [
+		"Muscles are what allow senses to function.",
+		"Muscles are necessary for senses to work."
+	],
+	"senses#muscles": [
+		"The senses control the muscles.",
+		"The senses are responsible for the movement of the muscles."
+	],
+	"muscles#mistake": [
+		"Muscles enable us to make mistakes.",
+		"Muscles are necessary for making mistakes."
+	],
+	"mistake#muscles": [
+		"Mistakes are often the result of incorrect muscle movements.",
+		"Muscle movements often lead to mistakes."
+	],
+	"senses#mistake": [
+		"Our senses can lead us to mistakes.",
+		"Our senses can deceive us."
+	],
+	"mistake#senses": [
+		"Mistakes can be detected through the senses.",
+		"Sensory information can help avoid mistakes."
+	],
+	"computer#outputs": [
+		"A computer has outputs.",
+		"A computer can produce outputs."
+	],
+	"outputs#computer": [
+		"Outputs are generated by the computer.",
+		"Outputs are the results of the computer."
+	],
+	"buyer#merchandise": [
+		"The buyer purchases the merchandise.",
+		"The buyer buys the merchandise."
+	],
+	"merchandise#buyer": [
+		"The merchandise is bought by the buyer.",
+		"The merchandise is sold to the buyer."
+	],
+	"believer#belief": [
+		"A believer believes in a belief."
+	],
+	"belief#believer": [
+		"A belief is something that a believer believes in.",
+		"A belief is a thought or opinion that a person believes."
+	],
+	"computer#inputs": [
+		"A computer accepts inputs from various sources.",
+		"A computer receives inputs from various sources."
+	],
+	"inputs#computer": [
+		"An input is data that is entered into a computer.",
+		"Data that is entered into a computer is an input."
+	],
+	"computer#bug": [
+		"A computer has software bugs.",
+		"A computer has insects."
+	],
+	"bug#computer": [],
+	"memory#outputs": [
+		"Outputs can be stored in memory.",
+		"Outputs can be remembered."
+	],
+	"outputs#memory": [
+		"Outputs are stored in memory.",
+		"Outputs are saved in memory."
+	],
+	"money#budget": [
+		"Money is allocated in the budget.",
+		"The budget determines how much money is available."
+	],
+	"budget#money": [
+		"A budget is a plan for the spending of money.",
+		"A budget is a limit on the amount of money that can be spent."
+	],
+	"memory#inputs": [
+		"The input is stored in the memory.",
+		"The input is remembered by the memory."
+	],
+	"inputs#memory": [
+		"Inputs store data in memory.",
+		"Inputs are necessary to store data in memory."
+	],
+	"time#schedule": [
+		"A schedule organizes time.",
+		"Time cannot be scheduled."
+	],
+	"schedule#time": [
+		"A schedule tells you what time something is.",
+		"A schedule is a plan of what time something happens."
+	],
+	"memory#bug": [
+		"Memory is like a bug because it can be hard to find and it's important to squash them.",
+		"Memory is like a bug because it's small and can cause a lot of damage."
+	],
+	"bug#memory": [],
+	"outputs#inputs": [
+		"Outputs are the results of inputs.",
+		"Outputs are what come from inputs."
+	],
+	"inputs#outputs": [
+		"The input is the data that is entered into a system, while the output is the data that is produced by the system."
+	],
+	"outputs#bug": [
+		"Outputs report and track bug activity.",
+		"Outputs are where bug activity is tracked."
+	],
+	"bug#outputs": [
+		"Bugs produce outputs.",
+		"Bugs generate outputs."
+	],
+	"inputs#bug": [
+		"Bug is a result of inputs.",
+		"Bug is a type of input."
+	],
+	"bug#inputs": [
+		"Bug captures inputs for processing."
+	],
+	"breeds#selection": [
+		"Breeds are created through selection.",
+		"Breeds are selected through the process of selection."
+	],
+	"selection#breeds": [
+		"Selection breeds new breeds.",
+		"Selection is what creates breeds."
+	],
+	"species#competition": [],
+	"competition#species": [
+		"Competition drives natural selection and the evolution of species.",
+		"Competition is necessary for the natural selection and evolution of species."
+	],
+	"species#adaptation": [
+		"Species evolve adaptations to their environment.",
+		"Species adapt to their environment."
+	],
+	"adaptation#species": [
+		"Adaptation is the process that leads to the development of new species.",
+		"Adaptation is the process that allows species to survive in new environments."
+	],
+	"species#fitness": [
+		"Species with higher fitness are more likely to survive and reproduce.",
+		"Species that are fittest are more likely to survive and reproduce."
+	],
+	"fitness#species": [
+		"Fitness is a measure of the ability of a species to survive and reproduce.",
+		"Fitness is the ability of an individual to survive and reproduce."
+	],
+	"competition#adaptation": [
+		"Competition is the process of adaptation.",
+		"Competition is the result of adaptation."
+	],
+	"adaptation#competition": [
+		"Adaptation and competition are two ways that living things interact with their environment. Adaptation is when an organism evolves in order to better survive in its environment. Competition is when organisms compete for limited resources."
+	],
+	"competition#fitness": [
+		"Competition improves fitness."
+	],
+	"fitness#competition": [
+		"Fitness is a competition.",
+		"Fitness is a race."
+	],
+	"adaptation#fitness": [
+		"Adaptation is the process that allows an organism to adjust to its environment, while fitness is the ability of an organism to produce offspring."
+	],
+	"fitness#adaptation": [
+		"Fitness is the ability of an organism to reproduce. Adaptation is the process by which organisms change their traits in order to survive in their environment."
+	],
+	"breeds#conformance": [
+		"Breeds are characterized by their conformance.",
+		"Breeds conform to a certain standard."
+	],
+	"conformance#breeds": [
+		"Conformance is the ability of a dog to breed with another dog of the same breed.",
+		"Conformance is the ability of a dog to produce offspring of the same breed."
+	],
+	"breeds#popularity": [],
+	"popularity#breeds": [
+		"Popularity affects the breeds.",
+		"The breeds affect the popularity."
+	],
+	"selection#conformance": [
+		"Selection is the process of choosing specific items from a larger set, while conformance is the act of following the norms or expectations of a particular group. In general, selection is the more powerful of the two forces, as it allows individuals or groups to choose which behaviors or traits are best suited"
+	],
+	"conformance#selection": [
+		"Conformance is the result of selection.",
+		"Conformance is the outcome of selection."
+	],
+	"selection#popularity": [
+		"Selection is based on popularity.",
+		"The more popular something is, the more likely it is to be selected."
+	],
+	"popularity#selection": [
+		"The more popular something is, the more likely it is to be selected.",
+		"The more popular something is, the more likely it is to be chosen."
+	],
+	"conformance#popularity": [
+		"Conformance is a measure of how popular something is.",
+		"Conformance is a way of measuring how popular something is."
+	],
+	"popularity#conformance": [
+		"Popularity is often based on conformity.",
+		"Being popular usually means conforming to what is popular."
+	],
+	"balls#billiards": [
+		"Balls are used in the game of billiards.",
+		"Balls are used in the game of pool.",
+		"Balls are used in the game of snooker."
+	],
+	"billiards#balls": [
+		"Balls are used in billiards.",
+		"Balls are the main part of billiards."
+	],
+	"molecules#gas": [
+		"Molecules are the smallest particles of a gas.",
+		"Molecules are the building blocks of a gas."
+	],
+	"gas#molecules": [
+		"Gas is made up of molecules.",
+		"Gas is composed of molecules."
+	],
+	"molecules#temperature": [
+		"Molecules move faster as the temperature rises.",
+		"The faster the molecules move, the higher the temperature."
+	],
+	"temperature#molecules": [
+		"The higher the temperature, the more active the molecules.",
+		"The higher the temperature, the more kinetic energy the molecules have."
+	],
+	"molecules#container": [
+		"Molecules are in the container.",
+		"Molecules are in the space inside the container."
+	],
+	"container#molecules": [
+		"The container holds the molecules together.",
+		"The container confines the molecules."
+	],
+	"gas#temperature": [
+		"The higher the temperature, the more gas is present.",
+		"The higher the temperature, the more gas is active."
+	],
+	"temperature#gas": [
+		"Temperature affects the pressure of gas.",
+		"Temperature determines the pressure of gas."
+	],
+	"gas#container": [
+		"A gas takes up the container.",
+		"A gas fills up the container."
+	],
+	"container#gas": [
+		"A container confines gas."
+	],
+	"temperature#container": [
+		"Temperature affects the container.",
+		"The container affects the temperature."
+	],
+	"container#temperature": [
+		"The container affects the temperature of the object.",
+		"The container moderates the temperature of the object."
+	],
+	"balls#speed": [
+		"Balls travel at a certain speed."
+	],
+	"speed#balls": [
+		"Balls travel faster when there is more speed.",
+		"Balls travel more quickly when there is more speed."
+	],
+	"balls#table": [
+		"Balls roll on the table.",
+		"Balls are placed on the table."
+	],
+	"table#balls": [
+		"A table is a surface on which balls can be placed.",
+		"A table is a good place to put balls."
+	],
+	"billiards#speed": [
+		"Speed affects the distance a billiard ball travels.",
+		"The faster the ball is hit, the further it will travel."
+	],
+	"speed#billiards": [
+		"Speed is how fast the balls travel in billiards.",
+		"Speed is how fast the balls travel in pool."
+	],
+	"billiards#table": [
+		"The billiards game is played on a table.",
+		"The billiards game is played with tables."
+	],
+	"table#billiards": [
+		"A table is used for playing billiards.",
+		"A table is a necessary part of playing billiards."
+	],
+	"speed#table": [
+		"There is no direct relationship between speed and table."
+	],
+	"table#speed": [
+		"A table has a certain speed.",
+		"A table can be moved at a certain speed."
+	],
+	"foundations#buildings": [
+		"The foundations support the buildings.",
+		"The buildings rest on the foundations."
+	],
+	"buildings#foundations": [
+		"Buildings are supported by foundations.",
+		"Buildings rest on foundations."
+	],
+	"reasons#theories": [
+		"A reason is a justification for a theory.",
+		"A reason is a basis for a theory."
+	],
+	"theories#reasons": [
+		"A theory is a proposed explanation for a phenomenon, while a reason is a purpose or motive for something."
+	],
+	"reasons#flaw": [
+		"A reason is a flaw.",
+		"A reason is a mistake.",
+		"A reason is a defect."
+	],
+	"flaw#reasons": [
+		"A flaw is a reason for something to not be perfect.",
+		"A flaw is a reason for something to not be as good as it could be."
+	],
+	"theories#flaw": [
+		"A theory is flawed.",
+		"A theory has a flaw."
+	],
+	"flaw#theories": [
+		"A flaw is a mistake in a theory.",
+		"A flaw is an error in a theory."
+	],
+	"foundations#crack": [
+		"The foundation's cracks can cause the building to collapse.",
+		"The foundation's cracks weaken the building."
+	],
+	"crack#foundations": [
+		"Cracks can undermine the foundations.",
+		"Cracks can cause the foundations to fail."
+	],
+	"buildings#crack": [
+		"Buildings are susceptible to cracking.",
+		"Buildings can crack."
+	],
+	"crack#buildings": [
+		"Cracks in buildings can cause them to collapse.",
+		"Cracks in buildings can lead to their structural failure."
+	],
+	"light#darkness": [
+		"Light is the absence of darkness.",
+		"Darkness is the absence of light."
+	],
+	"darkness#light": [
+		"Darkness is the absence of light.",
+		"Darkness is the absence of photons."
+	],
+	"knowledge#confusion": [
+		"Knowledge dispels confusion.",
+		"Knowledge is the opposite of confusion."
+	],
+	"confusion#knowledge": [
+		"Confusion can lead to knowledge.",
+		"Confusion can be a source of knowledge."
+	],
+	"knowledge#interpretation": [
+		"Knowledge is the object, interpretation is the process.",
+		"Knowledge is what is known, interpretation is how it is known."
+	],
+	"interpretation#knowledge": [
+		"Interpretation is a form of knowledge.",
+		"Interpretation is a way of acquiring knowledge."
+	],
+	"confusion#interpretation": [
+		"Confusion can lead to different interpretations.",
+		"Interpretations can be confused."
+	],
+	"interpretation#confusion": [
+		"Interpretation clears up confusion.",
+		"Interpretation resolves confusion."
+	],
+	"light#view": [
+		"Light allows us to see.",
+		"Light is necessary for sight."
+	],
+	"view#light": [
+		"Light is necessary to see an object.",
+		"Light allows an object to be seen."
+	],
+	"darkness#view": [
+		"Darkness blocks view.",
+		"Darkness hides view."
+	],
+	"view#darkness": [
+		"Darkness blocks view.",
+		"Darkness obstructs view."
+	],
+	"machine#power": [
+		"A machine needs power to function.",
+		"A machine cannot function without power."
+	],
+	"power#machine": [
+		"A machine needs power to run.",
+		"A machine cannot function without power."
+	],
+	"mind#intelligence": [
+		"There is no definitive answer to this question. Some people might say that mind and intelligence are the same thing, while others might say that they are completely different concepts."
+	],
+	"intelligence#mind": [
+		"Intelligence is a property of the mind.",
+		"Intelligence is the ability to learn.",
+		"Intelligence is the ability to think."
+	],
+	"mind#therapy": [
+		"Mind influences therapy.",
+		"Therapy influences mind."
+	],
+	"therapy#mind": [
+		"Therapy changes the mind.",
+		"Therapy affects the mind."
+	],
+	"intelligence#therapy": [
+		"Intelligence is a component of therapy.",
+		"Intelligence is a necessary component of therapy."
+	],
+	"therapy#intelligence": [
+		"There is no definitive answer to this question. Some people might say that therapy can increase intelligence, while others might say that there is no connection between the two."
+	],
+	"machine#repair": [
+		"A machine can be repaired.",
+		"A machine can be fixed."
+	],
+	"repair#machine": [
+		"A machine can be repaired.",
+		"A machine can be fixed."
+	],
+	"power#repair": [
+		"Repairing power equipment can increase its power output.",
+		"Repairing power equipment can improve its power output."
+	],
+	"repair#power": [
+		"Repair restores power.",
+		"Repair is necessary for power."
+	],
+	"leader#path": [
+		"A leader can set the path for a group.",
+		"A leader can show the path for a group."
+	],
+	"path#leader": [
+		"A path is followed by a leader.",
+		"A path is the route followed by a leader."
+	],
+	"speaker#argument": [
+		"A speaker makes an argument.",
+		"A speaker voices an argument."
+	],
+	"argument#speaker": [
+		"The speaker gives an argument.",
+		"The speaker makes an argument."
+	],
+	"speaker#listener": [
+		"The speaker transmits sound waves to the listener.",
+		"The speaker emits sound waves to the listener."
+	],
+	"listener#speaker": [
+		"A listener hears the speaker.",
+		"A listener understands the speaker."
+	],
+	"argument#listener": [
+		"The listener is influenced by the argument.",
+		"The listener is persuaded by the argument."
+	],
+	"listener#argument": [
+		"A listener understands an argument.",
+		"A listener evaluates an argument."
+	],
+	"leader#follower": [
+		"A leader guides the followers.",
+		"A leader leads the followers."
+	],
+	"follower#leader": [
+		"A follower is someone who follows a leader.",
+		"A follower is someone who is led by a leader."
+	],
+	"path#follower": [
+		"The path is the thing being followed.",
+		"The path is the thing that is being followed."
+	],
+	"follower#path": [
+		"A follower travels on the path.",
+		"A follower is drawn to the path."
+	],
+	"obstructions#destination": [
+		"An obstruction can prevent something from reaching its destination.",
+		"An obstruction can block something from reaching its destination."
+	],
+	"destination#obstructions": [
+		"A destination is an object that obstructs movement.",
+		"An obstacle is something that stands in the way of a destination."
+	],
+	"difficulties#goal": [
+		"Difficulties are what stands in the way of achieving a goal.",
+		"Achieving a goal requires overcoming difficulties."
+	],
+	"goal#difficulties": [
+		"Goal = Difficulty"
+	],
+	"difficulties#plan": [
+		"Difficulties interrupts the plan.",
+		"Difficulties can be overcome by having a plan."
+	],
+	"plan#difficulties": [
+		"The plan has a lot of difficulties.",
+		"It's hard to make a plan."
+	],
+	"difficulties#partner": [
+		"Difficulties are best faced with a partner.",
+		"Difficulties are best faced with a support network."
+	],
+	"partner#difficulties": [
+		"Difficulties can arise in a partnership.",
+		"Difficulties can be encountered in a partnership."
+	],
+	"goal#plan": [
+		"A goal is a plan with a purpose.",
+		"A goal is a plan with a desired outcome."
+	],
+	"plan#goal": [
+		"A plan is a step-by-step guide to achieving a goal.",
+		"A plan is a road map to achieving a goal."
+	],
+	"goal#partner": [
+		"A goal is scored by hitting the ball into the partner's goal.",
+		"A goal is the result of scoring by hitting the ball into the partner's goal."
+	],
+	"partner#goal": [
+		"A partner helps achieve the goal.",
+		"A partner is necessary to achieve the goal."
+	],
+	"plan#partner": [
+		"A plan is a type of partnership.",
+		"A plan is made with a partner."
+	],
+	"partner#plan": [
+		"A partner helps make a plan.",
+		"A partner is someone who helps make a plan."
+	],
+	"obstructions#route": [
+		"An obstruction blocks the route.",
+		"An obstruction interrupts the route."
+	],
+	"route#obstructions": [
+		"A route is a way to get to a destination without obstruction.",
+		"A route is a path to a destination without obstruction."
+	],
+	"obstructions#traveller": [
+		"An obstruction can prevent a traveller from reaching their destination."
+	],
+	"traveller#obstructions": [
+		"A traveller can avoid obstructions.",
+		"A traveller can take a detour to avoid obstructions."
+	],
+	"obstructions#companion": [
+		"An obstruction can be a companion.",
+		"An obstruction can provide company."
+	],
+	"companion#obstructions": [
+		"A companion can provide obstructions.",
+		"A companion can obstruct an object."
+	],
+	"destination#route": [
+		"A destination is the end of a route.",
+		"A destination is the final stop on a route."
+	],
+	"route#destination": [
+		"A route is the path between the starting point and the destination.",
+		"The destination is the end point of the route."
+	],
+	"destination#traveller": [
+		"A traveller goes to a destination.",
+		"A traveller arrives at a destination."
+	],
+	"traveller#destination": [
+		"A traveller goes to a destination.",
+		"A traveller arrives at a destination."
+	],
+	"destination#companion": [
+		"A destination is a place where a companion is travelling to.",
+		"A destination is a place where a companion is going."
+	],
+	"companion#destination": [
+		"A companion is someone who travels to the same destination.",
+		"A companion is someone who accompanies someone to the same destination."
+	],
+	"route#traveller": [
+		"The route is the path the traveller takes.",
+		"The traveller follows the route."
+	],
+	"traveller#route": [
+		"A traveller follows a route.",
+		"A traveller takes a route."
+	],
+	"route#companion": [
+		"A route is a path with a companion.",
+		"A route is a path that is traveled with a companion."
+	],
+	"companion#route": [
+		"A companion is someone who travels along the route.",
+		"A companion is someone who accompanies you on the route."
+	],
+	"traveller#companion": [
+		"A traveller is accompanied by a companion.",
+		"A traveller is accompanied by a travel companion."
+	],
+	"companion#traveller": [
+		"A companion accompanies a traveller.",
+		"A companion is someone who travels with someone."
+	],
+	"war#soldier": [
+		"War is fought by soldiers.",
+		"War is a conflict in which soldiers fight."
+	],
+	"soldier#war": [
+		"A soldier participates in war.",
+		"A soldier fights in war."
+	],
+	"argument#debater": [
+		"The debater presents the argument.",
+		"The debater argues the argument."
+	],
+	"debater#argument": [
+		"A debater participates in an argument.",
+		"A debater presents an argument."
+	],
+	"argument#acceptance": [
+		"An argument is an attempt to persuade someone to accept a particular point of view.",
+		"An acceptance is the result of an argument."
+	],
+	"acceptance#argument": [
+		"An acceptance is an argument's conclusion.",
+		"An acceptance is an argument's premise."
+	],
+	"argument#logic": [
+		"An argument is based on logic.",
+		"An argument is a logical sequence of statements."
+	],
+	"logic#argument": [
+		"A logic is an argument that is valid.",
+		"A logic is an argument that is sound."
+	],
+	"debater#acceptance": [
+		"A debater accepts an argument.",
+		"A debater agrees to an argument."
+	],
+	"acceptance#debater": [
+		"The debater accepts the arguments of the other debater.",
+		"The debater agrees to the arguments of the other debater."
+	],
+	"debater#logic": [
+		"Logic is used in debater.",
+		"Logic is a tool used by debaters."
+	],
+	"logic#debater": [
+		"Logic is used by debaters.",
+		"Logic is necessary for debaters."
+	],
+	"acceptance#logic": [
+		"There is no logical connection between acceptance and logic."
+	],
+	"logic#acceptance": [
+		"Logic is the process of accepting a proposition.",
+		"Logic is the process of verifying a proposition."
+	],
+	"war#defeat": [
+		"War can lead to defeat.",
+		"War can cause defeat."
+	],
+	"defeat#war": [
+		"Defeat is the outcome of war.",
+		"War can lead to defeat."
+	],
+	"war#weapon": [
+		"War is fought with weapons.",
+		"War is a conflict that is fought with weapons."
+	],
+	"weapon#war": [
+		"Weapon is used in war.",
+		"Weapon is a tool of war."
+	],
+	"soldier#defeat": [
+		"A soldier can be defeated in battle.",
+		"A soldier can be defeated in combat."
+	],
+	"defeat#soldier": [
+		"Defeat means the soldier has died.",
+		"Defeat means the soldier has been captured."
+	],
+	"soldier#weapon": [
+		"A soldier uses a weapon.",
+		"A soldier is protected by a weapon."
+	],
+	"weapon#soldier": [
+		"A weapon is used by a soldier.",
+		"A weapon is a tool used by a soldier."
+	],
+	"defeat#weapon": [
+		"Defeat can be caused by a weapon.",
+		"A weapon can be used to defeat someone."
+	],
+	"weapon#defeat": [
+		"A weapon is used to defeat an opponent.",
+		"A weapon is used to overcome an opponent."
+	],
+	"difficulties#person": [
+		"Difficulties are an obstacle that people face.",
+		"Difficulties are something that people have to endure."
+	],
+	"person#difficulties": [
+		"A person can experience difficulties.",
+		"A person can have difficulties."
+	],
+	"goal#person": [
+		"A goal is scored by a person.",
+		"A goal is a target scored by a person."
+	],
+	"person#goal": [
+		"A person scores a goal.",
+		"A person achieves a goal."
+	],
+	"plan#person": [
+		"A plan is a blueprint for a person.",
+		"A plan is a guide for a person."
+	],
+	"person#plan": [
+		"A person makes a plan."
+	],
+	"person#partner": [
+		"A person has a partner.",
+		"A person is partnered with someone."
+	],
+	"partner#person": [
+		"A partner is someone's person.",
+		"A partner is someone's significant other."
+	],
+	"birthmark#stretch mark": [
+		"Birthmarks are stretch marks.",
+		"Stretch marks are birthmarks."
+	],
+	"stretch mark#birthmark": [
+		"A stretch mark is a birthmark."
+	],
+	"skin#stretch mark": [
+		"Stretch marks are caused by skin stretching."
+	],
+	"stretch mark#skin": [
+		"Stretch marks are caused by skin stretching.",
+		"Stretch marks are caused by skin tearing."
+	],
+	"stretch mark#laser": [
+		"Laser can remove stretch marks.",
+		"Laser is effective in removing stretch marks."
+	],
+	"laser#stretch mark": [
+		"Laser can help remove stretch marks.",
+		"Laser can help reduce the appearance of stretch marks."
+	],
+	"birthmark#laserk": [
+		"Birthmarks can be removed with laser surgery.",
+		"Birthmarks can be removed with laser treatment."
+	],
+	"laserk#birthmark": [
+		"A laserk removes birthmarks.",
+		"A laserk can get rid of birthmarks."
+	],
+	"earth#sun": [],
+	"sun#earth": [],
+	"electrons#nucleus": [],
+	"nucleus#electrons": []
+}
