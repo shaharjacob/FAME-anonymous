@@ -8,13 +8,12 @@ import torch
 import click
 from click import secho
 
-backend_dir = Path(__file__).resolve().parent.parent
+current_dir = Path(__file__).resolve().parent
+backend_dir = current_dir.parent
 sys.path.insert(0, str(backend_dir))
+from mapping.dfs import dfs_wrapper
 from mapping.beam_search import beam_search_wrapper
 from mapping.mapping import Solution, FREQUENCY_THRESHOLD, mapping_wrapper
-
-EVALUATION_FOLDER = Path(__file__).resolve().parent
-root = EVALUATION_FOLDER.resolve().parent.parent
 
 COLORS = {
     "HEADER": '\033[95m',
@@ -76,7 +75,6 @@ def update_result(correct_mapping: List[str], solutions: List[Solution], result:
             
         
 
-
 def evaluate(model_name: str, 
              freq_th: float, 
              path: str, 
@@ -84,11 +82,11 @@ def evaluate(model_name: str,
              algorithm: str,
              num_of_suggestions: int):
     
-    if algorithm != 'beam':
-            secho("[ERROR] unsupported algorithm. (supported only 'beam').")
+    if algorithm not in ['beam', 'dfs']:
+            secho("[ERROR] unsupported algorithm. (supported are 'beam' or 'dfs').")
             exit(1)
-            
-    with open(EVALUATION_FOLDER / path, 'r') as y:
+
+    with open(current_dir / path, 'r') as y:
         spec = yaml.load(y, Loader=yaml.SafeLoader)
     mapping_spec = spec["mapping"]
     results = Results()
@@ -99,7 +97,7 @@ def evaluate(model_name: str,
 
         args = {
             "num_of_suggestions": num_of_suggestions,
-            "N": 20,
+            "N": tv["input"]["depth"][algorithm],
             "verbose": True,
             "freq_th": freq_th,
             "model_name": model_name,
@@ -111,7 +109,7 @@ def evaluate(model_name: str,
             "use_base_mapping": tv["output"]["mapping"] if tv["input"].get("use_base_mapping", False) else []
         }
 
-        algo_func = beam_search_wrapper
+        algo_func = beam_search_wrapper if algorithm == 'beam' else dfs_wrapper
         solutions = mapping_wrapper(algo_func, 
                                     base=tv["input"]["base"], 
                                     target=tv["input"]["target"],
